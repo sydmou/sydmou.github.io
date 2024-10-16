@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Zhang Hao /PhD"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zhang Hao"
 description              : &description "personal description"
 url                      : https://sydmou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Zhang Hao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "XXX"
   location         : "Penang"
-  employer         : "Red Brick University"
+  employer         : "Universiti Sains Malayisa"
   uri              : # URL
   email            : "zhanghaousm@gmail.com" 
 
