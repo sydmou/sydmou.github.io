@@ -19,32 +19,25 @@ redirect_from:
    AND OPINIONS USING PRE-TRAINED LANGUAGE MODELS AND MACHINE LEARNING METHODS.</span><br>
   <span class='desc'>Supervised by Cheah Yu-N</span><br>
   <span class='desc'>Examiner:</span>
-* **MSc (Bac5 Y2, Paris) Computer Science, SUPINFO International University** <span style="float: right;">Oct 2014 - Oct 2015</span>\
-  <span class='desc'>With distinction. Final Fulltime Internship:iHealth Labs Europe.</span>
-* **MSc (Bac5 Y1, Rennes) Computer Science, SUPINFO International University** <span style="float: right;">Oct 2014 - Oct 2015</span>\
+* **MSc (Bac5 , Paris Campus) Computer Science, SUPINFO International University** <span style="float: right;">Oct 2014 - Oct 2015</span>\
+  <span class='desc'>With distinction. Final Fulltime Internship: iHealth Labs Europe.</span>
+* **MSc (Bac4 , Rennes Campus) Computer Science, SUPINFO International University** <span style="float: right;">Oct 2013 - Oct 2014</span>\
   <span class='desc'>With distinction. Final part-time Internship: Vivaneo Inc. Paris</span>
-* **BSc (Bac1-4, Tianjin) Computer Science, SUPINFO International University** <span style="float: right;">Aug 2010 - Jul 2014</span>\
-  <span class='desc'>Final project: A farm-based web game design and develop.</span>
+* **BSc (Bac +1, +2, +3, China Tianjin Campus) Computer Science, SUPINFO International University** <span style="float: right;">Sep 2009 - Jun 2013</span>\
+  <span class='desc'>Final project: A farm-based web game design and development.</span>
 
 ## Working Experience
 
-* **Adjunct Assistant Professor**, Monash Indonesia <span style="float: right;"> Jan 2024 - Current</span>
-* **Assistant Professor**, MBZUAI <span style="float: right;"> Jan 2023 - Current</span>
-* **Applied Scientist**, Amazon Alexa AI <span style="float: right;"> Oct 2021 - Jan 2023</span>
-* **Postdoctoral Research Associate**, University of Edinburgh <span style="float: right;"> Jun 2020 - Jul 2021</span>
-* **Research Scientist**, Kata.ai  <span style="float: right;"> Nov 2019 - Sep 2021</span>
-* **Engineering Intern**, Google Research <span style="float: right;"> Jul 2017 - Nov 2017</span>
-* **Language Engineer**, Apple Siri  <span style="float: right;">Oct 2015 - Oct 2016</span>
+* **lecturer**, Cangzhou Normal University <span style="float: right;"> Sep 2018 - Current</span>
+* **iOS Engineer**, iHealth Labs USA (Tianjin Office)<span style="float: right;"> Jun 2020 - Jul 2021</span>
+* **iOS Engineer**, iHealth Labs USA (Silicon Valley Office)  <span style="float: right;"> Nov 2016 - Sep 2016</span>
+* **iOS Engineer Intern**, iHealth Labs Europe (Paris Office)<span style="float: right;"> June 2015 - Oct 2015</span>
+* **iOS Engineer Intern**, Vivaneo Inc  <span style="float: right;">June 2014 - Oct 2015</span>
 
 
-## Awards
+//## Awards
 
-* Best Resource Paper Award, EACL 2024
-* Best Resource Paper Award, AACL 2023
-* Outstanding Paper Award, EACL 2023
-* Outstanding Contribution Award, WNGT 2019
-* World Finalists, ACM-ICPC 2014
-* Silver Medalists, International Olympiad of Informatics (IOI) 2010
+//* Best Resource Paper Award, EACL 2024
 
 
 ## Professional Activities
