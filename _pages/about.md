@@ -16,7 +16,7 @@ I am an assistant professor at MBZUAI and adjunct faculty at Monash Indonesia. I
  - **(2018 - current)** Lecture, Cangzhou Normal University
  - **(2016 - 2018)** iOS Engineer, iHealth Labs China (Tianjin)
  - **(2016.9 - 2016.11)** iOS Engineer, iHealth Labs USA (Mountain View, Silicon Valley，CA)
- - **(2015)** Intern, iHealth Labs Europe
+ - **(2015)** Intern, iHealth Labs Europe (Ile de France,Paris)
  - **(2014-2015)**Intern, Vivaneo Paris
 
 ### Education
