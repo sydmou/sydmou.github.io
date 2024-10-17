@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <p style="font-size: 2em; font-weight: bold;">Zhang Hao / Curriculum Vitae</p>
-[alham.fikri@mbzuai.ac.ae](mailto:alham.fikri@mbzuai.ac.ae)
+[zhanghaousm@mgmail.com](mailto:zhanghaousm@mgmail.com)
 
 
 ## Education
