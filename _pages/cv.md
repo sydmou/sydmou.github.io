@@ -35,28 +35,13 @@ redirect_from:
 * **iOS Engineer Intern**, Vivaneo Inc  <span style="float: right;">June 2014 - Oct 2015</span>
 
 
-//## Awards
-
-//* Best Resource Paper Award, EACL 2024
-
-
-## Professional Activities
-
-### Services to Scientific Communities
-
-* **Reviewer and Program Committee Member**
-  * **Conferences**: ARR, ACL, COLING, ICML, ICLR, NeurIPS, LREC
-  * **Workshop**: WNGT, TL4NLP
-* **Area Chair**: ACL (2023), EMNLP (2023), COLM (2024)
-* **Local Chair**: COLING (2025)
-* **Organizer**: South-East Asia Language Processing (SEALP) 2023, Semeval shared task organizer (2024, 2025)
 
 <div class="page-break"></div>
 
 ## Publications
 
 <span style="color: orange;">●</span> denotes my role as <span style="color: orange;">(Co-)senior author(s)</span>, whereas <span style="color: teal;">■</span> denotes my role as <span style="color: teal;">main author(s)</span>.
-### Peer-Reviewed Conferences
+###  Conferences
 <div class="compact-ul">
 <ul>
 {% for paper in site.data.paper.conference %}
@@ -69,7 +54,7 @@ redirect_from:
 </ul>
 </div>
 
-### Peer-Reviewed Workshops
+### Journals
 <div class="compact-ul">
 <ul>
 {% for paper in site.data.paper.workshop %}
