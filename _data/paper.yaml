@@ -21,16 +21,16 @@ workshop:
     tags:
     notes: JCR Q1, Journal Impact Factor10.7 
     author: "first"
-  - title: "Exploring aspect-based sentiment quadruple extraction with implicit aspects, opinions, and ChatGPT: a comprehensive survey"
-    authors: "<b>Hao Zhang</b>, Yu‑N Cheah, Osamah Mohammed Alyasiri, Jieyu An"
+  - title: "Text classification based on optimization feature selection methods: a review and future directions"
+    authors: "Osamah Mohammed Alyasiri, Yu-N Cheah, Hao Zhang, Omar Mustafa Al-Janabi, Ammar Kamal Abasi"
     date: "2024"
-    venue: "Artificial Intelligence Review"
-    url: https://link.springer.com/article/10.1007/s10462-023-10633-x
+    venue: "Multimedia Tools and Applications"
+    url: https://link.springer.com/article/10.1007/s11042-024-19769-6
     data:
     model:
     tags:
     notes: 
-    author: "first"   
+    author: "third"   
    - title: "Improving Targeted Multimodal Sentiment Classification with Semantic Description of Images"
     authors: "Jieyu An, Nazmee Wan Zainon, Wan Mohd, <b>Zhang Hao</b>"
     date: "2023"
