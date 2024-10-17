@@ -1,9 +1,9 @@
 conference:
-  - title: "Sparse communication for distributed gradient descent"
+  - title: "An Instruction Tuning-Based Contrastive Learning Framework for Aspect Sentiment Quad Prediction with Implicit Aspects and Opinions"
     authors: "<b>Hao Zhang</b>, Yu-N Cheah, Congqing He, Feifan YI"
     date: "2034"
     venue: "EMNLP Findings"
-    url: https://aclanthology.org/D17-1045.pdf
+    url: 
     data:
     model:
     tags:
