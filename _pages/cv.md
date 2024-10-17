@@ -33,7 +33,7 @@ redirect_from:
 * **iOS Engineer, iHealth Labs China (Tianjin Office)** <span style="float: right;">Jan 2016 - Jun 2018</span>\
    <span class='desc'>Led the development of a Nurse App, empowering doctors to monitor \\
   patients' 24-hour blood pressure and ECG data in real-time. </span>\
-   <span class='desc'>Led X chronic disease management project, collaboration with the U.S. Department of Defense and Care Innovation Inc. </span>\
+   <span class='desc'>Led X chronic disease management project, collaboration with \\ the U.S. Department of Defense and Care Innovation Inc. </span>\
    <span class='desc'>Pioneered chronic disease management solutions for U.S. veterans, \\
    enhancing care coordination and patient outcomes. </span>
 * **iOS Engineer, iHealth Labs USA (Silicon Valley Office)**<span style="float: right;">Oct 2016 - Dec 2016</span>\
