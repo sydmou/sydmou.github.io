@@ -32,8 +32,8 @@ redirect_from:
    <span class='desc'IDC Data Center Construction </span>
 
 * **iOS Engineer**, iHealth Labs China (Tianjin Office)<span style="float: right;"> Jan 2016 - Jun 2018</span>\
-   <span class='desc'>Development of nurse app project for doctors to manage 24-hour blood pressure changes and patient’s ECG changes. </span>
-   <span class='desc'>In charge of CI project, cooperation with the U.S. Department of defense and the U.S. Care Innovation Inc. </span>
+   <span class='desc'>Development of a nurse app for doctors to manage patient 24-hour blood pressure and ECG changes. </span>
+   <span class='desc'>In charge of CI project, cooperation with the U.S. Department of Defense and the U.S. Care Innovation Inc. </span>
    <span class='desc'>Develop the chronic disease management project for American veterans. </span>
 
 * **iOS Engineer**, iHealth Labs USA (Silicon Valley Office)  <span style="float: right;"> Nov 2016 - Sep 2017</span>\
