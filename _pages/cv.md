@@ -85,73 +85,14 @@ redirect_from:
 {% endfor %}
 </ul>
 </div>
-## Supervision and Mentorship
-
-### Current Students
-Aside from MBZUAI, I co-supervise students from Indonesian universities, where I commit to meeting them weekly.
-
-<ul>
-{% for student in site.data.student.student %}
-  <li>
-   {% if student.url %}<a href="{{ student.url }}">{{ student.name | raw }}</a>{% else %}<strong>{{ student.name | raw }}</strong>{% endif %} — {{ student.rolejob | raw }}<span style="float: right;">{{ student.period | raw }}</span><br>
-    Role: {{ student.role | raw }}{% if student.co %}; with {{ student.co }}{% endif %}<br>
-    {% if student.job %}
-      <strong>Current position</strong>: {{ student.job | raw }}<br>
-    {% endif %}
-  </li>
-{% endfor %}
-</ul>
-
-### Past Students
-<ul>
-{% for student in site.data.student.paststudent %}
-  <li>
-    {% if student.url %}<a href="{{ student.url }}">{{ student.name | raw }}</a>{% else %}<strong>{{ student.name | raw }}</strong>{% endif %} — {{ student.rolejob | raw }}<span style="float: right;">{{ student.period | raw }}</span><br>
-    Role: {{ student.role | raw }}{% if student.co %}; with {{ student.co }}{% endif %}<br>
-    {% if student.job %}
-      <strong>Current position</strong>: {{ student.job | raw }}<br>
-    {% endif %}
-  </li>
-{% endfor %}
-</ul>
-
-### Research Advisorship
-<ul>
-{% for student in site.data.student.staff %}
-  <li>
-    {% if student.url %}<a href="{{ student.url }}">{{ student.name | raw }}</a>{% else %}<strong>{{ student.name | raw }}</strong>{% endif %} — {{ student.rolejob | raw }}<span style="float: right;">{{ student.period | raw }}</span><br>
-    Role: {{ student.role | raw }}{% if student.co %}; with {{ student.co }}{% endif %}<br>
-    {% if student.job %}
-      <strong>Current position</strong>: {{ student.job | raw }}<br>
-    {% endif %}
-  </li>
-{% endfor %}
-</ul>
 
 
 ## Talks
   * **Training Lightweight Model via Knowledge Distillation and Parameter Efficient Finetuning**\
     Mexican NLP Summer School, Co-located with NAACL (14-15th June 2024)
-  * **Consolidating NLP Resources for South-East Asian Languages**\
-    Google Singapore, Invited Talk (27th May 2024)  
-  * **Constructing High-Quality Corpora for Underrepresented and Extremely Low-Resource
+
 Languages**\
     Google Singapore, Invited Talk (21th November 2023)  
   * **Building Multilingual & Multicultural LLMs: Methods and Challenges**\
     AI Singapore, Invited Talk (20th November 2023)
-  * **Q2AI: A Quick Course to Quick AI**\
-    PRICAI, Tutorial (17th November 2023)
-  * **Current Status of NLP in South East Asia with Insights from Multilingualism and Language Diversity**\
-    AACL, Tutorial (1st November 2023)
-  * **Surviving your PhD Study**\
-    Telkom University, Invited Talk (2nd August 2023)
-  * **Generative AI with Large Language Models Workshop**\
-    Institut Teknologi Bandung, Invited Talk (1st August 2023)
-  * **Multilingual and Low-Resource NLP**\
-    Universitas Indonesia & Tokopedia AI Center, Invited Talk (25th May 2023)
-  * **Can AI Complete My Academic Writings?**\
-    Doctrine UK, Online Talk (14th May 2023)
-  * **Multilingual NLP through Collaborative Research**\
-    The 2nd Composable, Automatic and Scalable Learning Workshop (CASL), Invited Talk (23rd February 2023)
-  * **Sequence-to-Sequence and Neural Machine Translation Model**\
-    Universitas Indonesia, Guest Lecture (28th April 2021)
+
