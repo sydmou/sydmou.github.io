@@ -34,7 +34,7 @@ redirect_from:
    <span class='desc'>Led the development of a Nurse App, empowering doctors to monitor patients' 24-hour blood pressure and ECG data in real time. </span>\
    <span class='desc'>Led X chronic disease management project, collaboration with the U.S. Department of Defense and Care Innovation Inc. </span>\
    <span class='desc'>Pioneered chronic disease management solutions for U.S. veterans, enhancing care coordination and patient outcomes. </span>
-* **iOS Engineer, iHealth Labs USA (Silicon Valley Office)**<span style="float: right;">Nov 2016 - Sep 2017</span>\
+* **iOS Engineer, iHealth Labs USA (Silicon Valley Office)**<span style="float: right;">Oct 2016 - Dec 2016</span>\
    <span class='desc'>Directed designing and developing a nurse app project for Mirus Hospital in Australia. </span>\
    <span class='desc'>Led key projects within iHealth’s American team, driving innovation in healthcare technology solutions. </span>
 * **iOS Engineer Intern, iHealth Labs Europe (Paris Office)**<span style="float: right;">June 2015 - Oct 2015</span>\
