@@ -15,8 +15,8 @@ redirect_from:
 ## Education
 
 * **PhD, Artificial Intelligence, Universiti Sains Malaysia** <span style="float: right;">Nov 2016 - Now</span><br>
-  <span class='desc'>Thesis: Aspect-Category-Opinion-Sentiment Quad Extraction With Implicit Aspects 
-   And Opinions Using Pre-Trained \\Language Models And Machine Learning Methods.</span><br>
+  <span class='desc'>Thesis: Aspect-Category-Opinion-Sentiment Quad Extraction With Implicit Aspects \\
+   And Opinions Using Pre-Trained Language Models And Machine Learning Methods.</span><br>
   <span class='desc'>Supervised by Cheah Yu-N</span><br>
   <span class='desc'>Examiner:</span>
 * **MSc (Bac5 , Paris Campus) Computer Science, SUPINFO International University** <span style="float: right;">Oct 2014 - Oct 2015</span>\
@@ -31,7 +31,7 @@ redirect_from:
 * **Lecturer, Cangzhou Normal University** <span style="float: right;">Sep 2018 - Present</span>\
    <span class='desc'>Led the construction and development of the IDC Data Center. </span>
 * **iOS Engineer, iHealth Labs China (Tianjin Office)** <span style="float: right;">Jan 2016 - Jun 2018</span>\
-   <span class='desc'>Led the development of a Nurse App, empowering doctors to monitor patients' 24-hour blood pressure and ECG data in real time. </span>\
+   <span class='desc'>Led the development of a Nurse App, empowering doctors to monitor \\ patients' 24-hour blood pressure and ECG data in real time. </span>\
    <span class='desc'>Led X chronic disease management project, collaboration with the U.S. Department of Defense and Care Innovation Inc. </span>\
    <span class='desc'>Pioneered chronic disease management solutions for U.S. veterans, enhancing care coordination and patient outcomes. </span>
 * **iOS Engineer, iHealth Labs USA (Silicon Valley Office)**<span style="float: right;">Oct 2016 - Dec 2016</span>\
