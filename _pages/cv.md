@@ -68,8 +68,5 @@ redirect_from:
 </div>
 
 
-## Talks
-  * **Training Lightweight Model via Knowledge Distillation and Parameter Efficient Finetuning**\
-    Mexican NLP Summer School, Co-located with NAACL (14-15th June 2024)
 
 
