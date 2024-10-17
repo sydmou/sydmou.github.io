@@ -29,8 +29,8 @@ redirect_from:
 ## Working Experience
 
 * **lecturer**, Cangzhou Normal University <span style="float: right;"> Sep 2018 - Current</span>
-* **iOS Engineer**, iHealth Labs USA (Tianjin Office)<span style="float: right;"> Jun 2020 - Jul 2021</span>
-* **iOS Engineer**, iHealth Labs USA (Silicon Valley Office)  <span style="float: right;"> Nov 2016 - Sep 2016</span>
+* **iOS Engineer**, iHealth Labs China (Tianjin Office)<span style="float: right;"> Jan 2016 - Jun 2018</span>
+* **iOS Engineer**, iHealth Labs USA (Silicon Valley Office)  <span style="float: right;"> Nov 2016 - Sep 2017</span>
 * **iOS Engineer Intern**, iHealth Labs Europe (Paris Office)<span style="float: right;"> June 2015 - Oct 2015</span>
 * **iOS Engineer Intern**, Vivaneo Inc  <span style="float: right;">June 2014 - Oct 2015</span>
 
