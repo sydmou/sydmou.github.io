@@ -23,7 +23,7 @@ redirect_from:
   <span class='desc'>With distinction. Final Fulltime Internship: iHealth Labs Europe.</span>
 * **MSc (Bac4 , Rennes Campus) Computer Science, SUPINFO International University** <span style="float: right;">Oct 2013 - Oct 2014</span>\
   <span class='desc'>With distinction. Final part-time Internship: Vivaneo Inc. Paris</span>
-* **BSc (Bac +1, +2, +3, China Tianjin Campus) Computer Science, SUPINFO International University** <span style="float: right;">Sep 2009 - Jun 2013</span>\
+* **BSc (Bac+ 1-3, Tianjin Campus) Computer Science, SUPINFO International University** <span style="float: right;">Sep 2009 - Jun 2013</span>\
   <span class='desc'>Final project: A farm-based web game design and development.</span>
 
 ## Working Experience
