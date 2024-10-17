@@ -21,4 +21,7 @@ I am a student at the University of Sains Malaysia, where I was supervised by Dr
  - MSc Computer Science, SUPINFO International University
  - BSc Computer Science, SUPINFO International University
 
-
+### Language
+ - Chinese
+ - English
+ - French
