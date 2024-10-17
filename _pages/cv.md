@@ -30,10 +30,17 @@ redirect_from:
 
 * **lecturer**, Cangzhou Normal University <span style="float: right;"> Sep 2018 - Current</span>
    <span class='desc'IDC Data Center Construction </span>
+
 * **iOS Engineer**, iHealth Labs China (Tianjin Office)<span style="float: right;"> Jan 2016 - Jun 2018</span>
-   <span class='desc'IDC Data Center Construction </span>
+   <span class='desc'Development of nurse app project for doctors to manage 24-hour blood pressure changes and patient’s ECG changes. </span>
+   <span class='desc'In charge of CI project, cooperation with the U.S. Department of defense and the U.S. Care Innovation Inc. </span>
+   <span class='desc'Develop the chronic disease management project for American veterans.. </span>
 
 * **iOS Engineer**, iHealth Labs USA (Silicon Valley Office)  <span style="float: right;"> Nov 2016 - Sep 2017</span>
+   <span class='desc'Design of nurse app project for Australian Mirus hospital. </span>
+   <span class='desc'Development the project of iHealth American team. </span>
+
+
 * **iOS Engineer Intern**, iHealth Labs Europe (Paris Office)<span style="float: right;"> June 2015 - Oct 2015</span>
    <span class='desc' Development of iHealth Europe B2B Medical Project. </span>
    <span class='desc' Writing the SDK interface documents in English and French. </span>
