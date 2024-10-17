@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <p style="font-size: 2em; font-weight: bold;">Zhang Hao / Curriculum Vitae</p>
-[zhanghaousm@mgmail.com](mailto:zhanghaousm@mgmail.com)
+[zhanghaousm@mgmail.com](mailto:zhanghaousm@gmail.com)
 
 
 ## Education
