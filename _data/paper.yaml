@@ -11,13 +11,13 @@ conference:
     author: "first"
 
 workshop:
-  - title: "Prompting Multilingual Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages"
-    authors: "Zheng Xin Yong, Ruochen Zhang, Jessica Forde, Skyler Wang, Arjun Subramonian, Holy Lovenia, Samuel Cahyawijaya, Genta Winata, Lintang Sutawika, Jan Christian Blaise Cruz, Yin Lin Tan, Long Phan, Long Phan, Rowena Garcia, Thamar Solorio, <b>Alham Fikri Aji</b>"
-    date: "2023"
-    venue: "CALCS at EMNLP"
-    url: https://aclanthology.org/2023.calcs-1.5.pdf
+  - title: "Exploring aspect-based sentiment quadruple extraction with implicit aspects, opinions, and ChatGPT: a comprehensive survey"
+    authors: "<b>Hao Zhang</b>, Yu‑N Cheah, Osamah Mohammed Alyasiri, Jieyu An"
+    date: "2024"
+    venue: "CArtificial Intelligence Review"
+    url: https://link.springer.com/article/10.1007/s10462-023-10633-x
     data:
     model:
     tags:
-    notes:
-    author: "last"
+    notes: JCR Q1, Journal Impact Factor10.7 (2023)
+    author: "first"
