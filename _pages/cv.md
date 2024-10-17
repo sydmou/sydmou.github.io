@@ -15,15 +15,16 @@ redirect_from:
 ## Education
 
 * **PhD, Artificial Intelligence, Universiti Sains Malaysia** <span style="float: right;">Nov 2016 - Now</span><br>
-  <span class='desc'>Thesis: ASPECT-BASED SENTIMENT QUADRUPLE EXTRACTION WITH IMPLICIT ASPECTS AND OPINIONS USING PRE-TRAINED LANGUAGE MODE.</span><br>
+  <span class='desc'>Thesis: ASPECT-CATEGORY-OPINION-SENTIMENT QUAD EXTRACTION WITH IMPLICIT ASPECTS \\
+   AND OPINIONS USING PRE-TRAINED LANGUAGE MODELS AND MACHINE LEARNING METHODS.</span><br>
   <span class='desc'>Supervised by Cheah Yu-N</span><br>
   <span class='desc'>Examiner:</span>
-* **MSc (Bac5 Y2) Computer Science, SUPINFO International University** <span style="float: right;">Oct 2014 - Oct 2015</span>\
-  <span class='desc'>With distinction. Final project: Haiku generator with word vector model.</span>
-* **MSc (Bac5 Y1) Computer Science, SUPINFO International University** <span style="float: right;">Oct 2014 - Oct 2015</span>\
-  <span class='desc'>With distinction. Final project: Haiku generator with word vector model.</span>
-* **BSc (Bac1-4) Computer Science, SUPINFO International University** <span style="float: right;">Aug 2010 - Jul 2014</span>\
-  <span class='desc'>Final project: Earthquake detector from phone's accelerometer reading.</span>
+* **MSc (Bac5 Y2, Paris) Computer Science, SUPINFO International University** <span style="float: right;">Oct 2014 - Oct 2015</span>\
+  <span class='desc'>With distinction. Final Fulltime Internship:iHealth Labs Europe.</span>
+* **MSc (Bac5 Y1, Rennes) Computer Science, SUPINFO International University** <span style="float: right;">Oct 2014 - Oct 2015</span>\
+  <span class='desc'>With distinction. Final part-time Internship: Vivaneo Inc. Paris</span>
+* **BSc (Bac1-4, Tianjin) Computer Science, SUPINFO International University** <span style="float: right;">Aug 2010 - Jul 2014</span>\
+  <span class='desc'>Final project: A farm-based web game design and develop.</span>
 
 ## Working Experience
 
