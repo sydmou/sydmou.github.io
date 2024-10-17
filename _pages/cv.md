@@ -14,10 +14,10 @@ redirect_from:
 
 ## Education
 
-* **PhD, University of Edinburgh** <span style="float: right;">Nov 2016 - Jun 2020</span><br>
-  <span class='desc'>Thesis: Approximating Neural Machine Translation for Efficiency.</span><br>
-  <span class='desc'>Supervised by Kenneth Heafield and Rico Sennrich.</span><br>
-  <span class='desc'>Examiner: Graham Neubig and Barry Haddow</span>
+* **PhD, University of Edinburgh** <span style="float: right;">Nov 2016 - Now</span><br>
+  <span class='desc'>Thesis: ASPECT-BASED SENTIMENT QUADRUPLE EXTRACTION WITH IMPLICIT ASPECTS AND OPINIONS USING PRE-TRAINED LANGUAGE MODE.</span><br>
+  <span class='desc'>Supervised by Cheah Yu-N</span><br>
+  <span class='desc'>Examiner:</span>
 * **MSc Artificial Intelligence, University of Edinburgh** <span style="float: right;">Sep 2014 - Aug 2015</span>\
   <span class='desc'>With distinction. Final project: Haiku generator with word vector model.</span>
 * **BSc Computer Science, Universitas Indonesia** <span style="float: right;">Aug 2010 - Jul 2014</span>\
