@@ -72,8 +72,4 @@ redirect_from:
   * **Training Lightweight Model via Knowledge Distillation and Parameter Efficient Finetuning**\
     Mexican NLP Summer School, Co-located with NAACL (14-15th June 2024)
 
-Languages**\
-    Google Singapore, Invited Talk (21th November 2023)  
-  * **Building Multilingual & Multicultural LLMs: Methods and Challenges**\
-    AI Singapore, Invited Talk (20th November 2023)
 
