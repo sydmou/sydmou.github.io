@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.ca/citations?hl=en&user=crmoLvMAAAAJ&view_op=list_works&sortby=pubdate
     
   - title: "CV"
     url: /cv/
