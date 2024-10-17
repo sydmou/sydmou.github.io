@@ -31,7 +31,7 @@ workshop:
     model:
     tags:
     notes: 
-    author: "third"
+    author: "last"
 
   - title: "Improving Targeted Multimodal Sentiment Classification with Semantic Description of Images"
     authors: "Jieyu An, Nazmee Wan Zainon, Wan Mohd, <b>Zhang Hao</b>"
