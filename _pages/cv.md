@@ -29,7 +29,7 @@ redirect_from:
 ## Working Experience
 
 * **Lecturer**, Cangzhou Normal University <span style="float: right;">Sep 2018 - Present</span>\
-   <span class='desc'>Led the construction and development of the IDC Data Center, integrating advanced technologies to support institutional growth. </span>
+   <span class='desc'>Led the construction and development of the IDC Data Center. </span>
 * **iOS Engineer**, iHealth Labs China (Tianjin Office) <span style="float: right;">Jan 2016 - Jun 2018</span>\
    <span class='desc'>Led the development of a Nurse App, empowering doctors to monitor patients' 24-hour blood pressure and ECG data in real time. </span>\
    <span class='desc'>Led X project, collaborating with the U.S. Department of Defense and U.S. Care Innovation Inc. </span>\
@@ -38,9 +38,9 @@ redirect_from:
    <span class='desc'>Directed designing and developing a nurse app project for Mirus Hospital in Australia. </span>\
    <span class='desc'>Led key projects within iHealth’s American team, driving innovation in healthcare technology solutions. </span>
 * **iOS Engineer Intern**, iHealth Labs Europe (Paris Office) <span style="float: right;">June 2015 - Oct 2015</span>\
-   <span class='desc'>Contributed to developing iHealth Europe’s B2B Medical Project, enhancing business relationships and product capabilities. </span>\
-   <span class='desc'>Authored comprehensive SDK interface documentation in English and French, facilitating cross-functional collaboration. </span>\
-   <span class='desc'>Assisted in the design of the iHealth European Security Cloud Architecture, ensuring data integrity and compliance with regional regulations. </span>
+   <span class='desc'>Contributed to developing iHealth Europe’s B2B Medical Project. </span>\
+   <span class='desc'>Authored comprehensive iHealth API and SDK interface documentation in English and French. </span>\
+   <span class='desc'>Assisted in the design of the iHealth European Security Cloud Architecture. </span>
 * **iOS Engineer Intern**, Vivaneo Inc <span style="float: right;">June 2014 - Oct 2015</span>\
    <span class='desc'>Participated in software development and support for iOS applications. </span>
 
