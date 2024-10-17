@@ -29,7 +29,7 @@ redirect_from:
 ## Working Experience
 
 * **lecturer**, Cangzhou Normal University <span style="float: right;"> Sep 2018 - Current</span>\
-   <span class='desc'IDC Data Center Construction </span>
+   <span class='desc'>IDC Data Center Construction </span>
 
 * **iOS Engineer**, iHealth Labs China (Tianjin Office)<span style="float: right;"> Jan 2016 - Jun 2018</span>\
    <span class='desc'>Development of a nurse app for doctors to manage patient 24-hour blood pressure and ECG changes. </span>\
