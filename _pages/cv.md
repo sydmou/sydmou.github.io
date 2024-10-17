@@ -29,9 +29,15 @@ redirect_from:
 ## Working Experience
 
 * **lecturer**, Cangzhou Normal University <span style="float: right;"> Sep 2018 - Current</span>
+   <span class='desc'IDC Data Center Construction </span>
 * **iOS Engineer**, iHealth Labs China (Tianjin Office)<span style="float: right;"> Jan 2016 - Jun 2018</span>
+   <span class='desc'IDC Data Center Construction </span>
+
 * **iOS Engineer**, iHealth Labs USA (Silicon Valley Office)  <span style="float: right;"> Nov 2016 - Sep 2017</span>
 * **iOS Engineer Intern**, iHealth Labs Europe (Paris Office)<span style="float: right;"> June 2015 - Oct 2015</span>
+   <span class='desc' Development of iHealth Europe B2B Medical Project. </span>
+   <span class='desc' Writing the SDK interface documents in English and French. </span>
+   <span class='desc' iHealth European Security Cloud Architecture Design. </span>
 * **iOS Engineer Intern**, Vivaneo Inc  <span style="float: right;">June 2014 - Oct 2015</span>
 
 
