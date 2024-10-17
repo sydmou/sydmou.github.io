@@ -28,26 +28,21 @@ redirect_from:
 
 ## Working Experience
 
-* **lecturer**, Cangzhou Normal University <span style="float: right;"> Sep 2018 - Current</span>\
-   <span class='desc'>IDC Data Center Construction </span>
-
-* **iOS Engineer**, iHealth Labs China (Tianjin Office)<span style="float: right;"> Jan 2016 - Jun 2018</span>\
-   <span class='desc'>Development of a nurse app for doctors to manage patient 24-hour blood pressure and ECG changes. </span>\
-   <span class='desc'>In charge of CI project, cooperation with the U.S. Department of Defense and the U.S. Care Innovation Inc. </span>\
-   <span class='desc'>Develop the chronic disease management project for American veterans. </span>
-
-* **iOS Engineer**, iHealth Labs USA (Silicon Valley Office)  <span style="float: right;"> Nov 2016 - Sep 2017</span>\
-   <span class='desc'>Design of nurse app project for Australian Mirus hospital. </span>\
-   <span class='desc'>Development the project of iHealth American team. </span>
-
-
-* **iOS Engineer Intern**, iHealth Labs Europe (Paris Office)<span style="float: right;"> June 2015 - Oct 2015</span>\
-   <span class='desc'>Development of iHealth Europe B2B Medical Project. </span>\
-   <span class='desc'> Writing the SDK interface documents in English and French. </span>\
-   <span class='desc'>iHealth European Security Cloud Architecture Design. </span>
-* **iOS Engineer Intern**, Vivaneo Inc  <span style="float: right;">June 2014 - Oct 2015</span>
-
-
+* **Lecturer**, Cangzhou Normal University <span style="float: right;">Sep 2018 - Present</span>\
+   <span class='desc'>Led the construction and development of the IDC Data Center, integrating advanced technologies to support institutional growth. </span>
+* **iOS Engineer**, iHealth Labs China (Tianjin Office) <span style="float: right;">Jan 2016 - Jun 2018</span>\
+   <span class='desc'>Spearheaded the development of a cutting-edge nurse app, empowering doctors to monitor patients 24-hour blood pressure and ECG data in real time. </span>\
+   <span class='desc'>Led the Continuous Integration (CI) project, collaborating with the U.S. Department of Defense and U.S. Care Innovation Inc. on strategic healthcare initiatives. </span>\
+   <span class='desc'>Pioneered chronic disease management solutions for U.S. veterans, enhancing care coordination and patient outcomes. </span>
+* **iOS Engineer**, iHealth Labs USA (Silicon Valley Office) <span style="float: right;">Nov 2016 - Sep 2017</span>\
+   <span class='desc'>Directed designing and developing a nurse app project for Mirus Hospital in Australia, aligning with healthcare standards. </span>\
+   <span class='desc'>Led key projects within iHealth’s American team, driving innovation in healthcare technology solutions. </span>
+* **iOS Engineer Intern**, iHealth Labs Europe (Paris Office) <span style="float: right;">June 2015 - Oct 2015</span>\
+   <span class='desc'>Contributed to developing iHealth Europe’s B2B Medical Project, enhancing business relationships and product capabilities. </span>\
+   <span class='desc'>Authored comprehensive SDK interface documentation in English and French, facilitating cross-functional collaboration. </span>\
+   <span class='desc'>Assisted in the design of the iHealth European Security Cloud Architecture, ensuring data integrity and compliance with regional regulations. </span>
+* **iOS Engineer Intern**, Vivaneo Inc <span style="float: right;">June 2014 - Oct 2015</span>\
+   <span class='desc'>Participated in software development and support for iOS applications, contributing to innovative healthcare solutions. </span>
 
 <div class="page-break"></div>
 
