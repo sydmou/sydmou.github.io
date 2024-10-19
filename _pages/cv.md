@@ -37,7 +37,7 @@ redirect_from:
    the U.S. Department of Defense and Care Innovation Inc. </span>\
    <span class='desc'>Pioneered chronic disease management solutions for U.S. veterans, \\
    enhancing care coordination and patient outcomes. </span>
-* **iOS Engineer, iHealth Labs USA (Silicon Valley Office)**<span style="float: right;">Oct 2016 - Dec 2016</span>\
+* **iOS Engineer, iHealth Labs USA (Silicon Valley Office)**<span style="float: right;">Aug 2016 - Dec 2016</span>\
    <span class='desc'>Directed designing and developing a nurse app project for Mirus Hospital in Australia. </span>\
    <span class='desc'>Led key projects within iHealth’s American team, driving healthcare solutions. </span>
 * **iOS Engineer Intern, iHealth Labs Europe (Paris Office)**<span style="float: right;">June 2015 - Oct 2015</span>\
