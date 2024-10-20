@@ -52,18 +52,6 @@ redirect_from:
 ## Publications
 
 <span style="color: orange;">●</span> denotes my role as <span style="color: orange;">(Co-)senior author(s)</span>, whereas <span style="color: teal;">■</span> denotes my role as <span style="color: teal;">main author(s)</span>.
-###  Conferences
-<div class="compact-ul">
-<ul>
-{% for paper in site.data.paper.conference %}
-<li class="{% if paper.author and paper.author == 'first' %}first-author{% elsif paper.author and paper.author == 'last' %}last-author{% else %}default-author{% endif %}">
-    {% if paper.url %}<a href="{{ paper.url }}">{{ paper.title }}</a>{% else %}<strong>{{ paper.title }}</strong>{% endif %}. <i>{{ paper.authors | raw }}</i> (<b>{{ paper.venue | raw }}</b>, {{ paper.date | raw }})
-    {% if paper.notes != null %} -- {{ paper.notes | raw }}
-    {% endif %}
-</li>
-{% endfor %}
-</ul>
-</div>
 
 ### Journals
 <div class="compact-ul">
@@ -78,6 +66,19 @@ redirect_from:
 </ul>
 </div>
 
+###  Conferences
+
+<div class="compact-ul">
+<ul>
+{% for paper in site.data.paper.conference %}
+<li class="{% if paper.author and paper.author == 'first' %}first-author{% elsif paper.author and paper.author == 'last' %}last-author{% else %}default-author{% endif %}">
+    {% if paper.url %}<a href="{{ paper.url }}">{{ paper.title }}</a>{% else %}<strong>{{ paper.title }}</strong>{% endif %}. <i>{{ paper.authors | raw }}</i> (<b>{{ paper.venue | raw }}</b>, {{ paper.date | raw }})
+    {% if paper.notes != null %} -- {{ paper.notes | raw }}
+    {% endif %}
+</li>
+{% endfor %}
+</ul>
+</div>
 
 
 
