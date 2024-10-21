@@ -9,7 +9,7 @@ conference:
     tags:
     notes:
     author: "first"
-
+  
 workshop:
   - title: "Exploring aspect-based sentiment quadruple extraction with implicit aspects, opinions, and ChatGPT: a comprehensive survey"
     authors: "<b>Hao Zhang</b>, Yu‑N Cheah, Osamah Mohammed Alyasiri, Jieyu An"
@@ -43,3 +43,33 @@ workshop:
     tags:
     notes:
     author: "last"
+ - title: "Sentiment Tree Driven Chain of Thought for Aspect Sentiment Quad Prediction"
+    authors: "<b>Hao Zhang</b>I"
+    date: "2024"
+    venue: "Draft"
+    url: 
+    data:
+    model:
+    tags:
+    notes:
+    author: "first"
+ - title: "A Multi-task Learning-Based Contrastive Learning Framework for Aspect Sentiment Quad Prediction with Implicit Aspects and Opinions"
+    authors: "<b>Hao Zhang</b>I"
+    date: "2024"
+    venue: "Draft"
+    url: 
+    data:
+    model:
+    tags:
+    notes:
+    author: "first"
+ - title: "An Minimize Negative Samples Ccnfusion Framework for Aspect Sentiment Quad Prediction"
+    authors: "<b>Hao Zhang</b>I"
+    date: "2024"
+    venue: "Draft"
+    url: 
+    data:
+    model:
+    tags:
+    notes:
+    author: "first"   
