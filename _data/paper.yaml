@@ -53,7 +53,7 @@ workshop:
     tags:
     notes:
     author: "first"
-  - title: "A Multi-task Learning-Based Contrastive Learning Framework for Aspect Sentiment Quad Prediction with Implicit Aspects and Opinions"
+  - title: "A Multi-task and Contrastive Learning-Based Framework for Aspect Sentiment Quad Prediction with Implicit Aspects and Opinions"
     authors: "<b>Hao Zhang</b>"
     date: "2024"
     venue: "Draft"
