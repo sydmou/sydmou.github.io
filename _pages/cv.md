@@ -15,6 +15,7 @@ redirect_from:
 ## Education
 
 * **PhD, Artificial Intelligence, Universiti Sains Malaysia** <span style="float: right;">Apr 2021 - Now</span><br>
+  <span class='desc'>Focus: Sentiment Analysis (ABSA), LLMs Security, LLMs Alignment </span>
   <span class='desc'>Thesis: Aspect-Category-Opinion-Sentiment Quad Extraction With Implicit Aspects \\
    And Opinions Using Pre-Trained Language Models And Machine Learning Methods.</span><br>
   <span class='desc'>Supervised by Cheah Yu-N</span><br>
