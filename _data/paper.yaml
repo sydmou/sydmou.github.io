@@ -43,7 +43,7 @@ workshop:
     tags:
     notes:
     author: "last"
- - title: "Sentiment Tree Driven Chain of Thought for Aspect Sentiment Quad Prediction"
+  - title: "Sentiment Tree Driven Chain of Thought for Aspect Sentiment Quad Prediction"
     authors: "<b>Hao Zhang</b>I"
     date: "2024"
     venue: "Draft"
@@ -53,7 +53,7 @@ workshop:
     tags:
     notes:
     author: "first"
- - title: "A Multi-task Learning-Based Contrastive Learning Framework for Aspect Sentiment Quad Prediction with Implicit Aspects and Opinions"
+  - title: "A Multi-task Learning-Based Contrastive Learning Framework for Aspect Sentiment Quad Prediction with Implicit Aspects and Opinions"
     authors: "<b>Hao Zhang</b>I"
     date: "2024"
     venue: "Draft"
@@ -63,7 +63,7 @@ workshop:
     tags:
     notes:
     author: "first"
- - title: "An Minimize Negative Samples Ccnfusion Framework for Aspect Sentiment Quad Prediction"
+  - title: "An Minimize Negative Samples Ccnfusion Framework for Aspect Sentiment Quad Prediction"
     authors: "<b>Hao Zhang</b>I"
     date: "2024"
     venue: "Draft"
