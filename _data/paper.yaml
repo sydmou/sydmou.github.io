@@ -3,7 +3,7 @@ conference:
     authors: "<b>Hao Zhang</b>, Yu-N Cheah, Congqing He, Feifan YI"
     date: "2024"
     venue: "EMNLP Findings"
-    url: 
+    url: "https://aclanthology.org/2024.findings-emnlp.453"
     data:
     model:
     tags:
