@@ -31,7 +31,7 @@ redirect_from:
 
 * **Lecturer, Cangzhou Normal University** <span style="float: right;">Sep 2018 - Present</span>\
    <span class='desc'>Led the construction and development of the IDC Data Center. </span>
-* **iOS Engineer, iHealth Labs China (Tianjin Office) ** <span style="float: right;">Jan 2016 - Jun 2018</span>\
+* **iOS Engineer, iHealth Labs China (Tianjin Office) **<span style="float: right;">Jan 2016 - Jun 2018</span>\
    <span class='desc'>Led the development of a Nurse App, empowering doctors to monitor \\
   patients' 24-hour blood pressure and ECG data in real-time. </span>\
    <span class='desc'>Led chronic disease management project X, collaboration with \\
