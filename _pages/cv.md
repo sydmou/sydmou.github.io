@@ -83,6 +83,6 @@ redirect_from:
 
 ## Academic services
 
-* **The Journal of Supercomputing (Reviewer)** 
+* **The Journal of Supercomputing - 12 January 2025 (Reviewer)** 
 
 
