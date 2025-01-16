@@ -45,7 +45,7 @@ redirect_from:
    <span class='desc'>Contributed to developing iHealth Europe’s B2B Medical Project. </span>\
    <span class='desc'>Authored iHealth API and SDK interface documentation in English and French. </span>\
    <span class='desc'>Assisted in the design of the iHealth European Security Cloud Architecture. </span>
-* **iOS Engineer Intern, Vivaneo Inc** <span style="float: right;">June 2014 - Oct 2014</span>\
+* **iOS Engineer Intern, Vivaneo Inc (Green Space, Paris)** <span style="float: right;">June 2014 - Oct 2014</span>\
    <span class='desc'>Participated in software development and support for iOS applications. </span>
 
 <div class="page-break"></div>
