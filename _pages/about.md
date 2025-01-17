@@ -27,14 +27,14 @@ redirect_from:
         </p>
         <p>
             <br>
-            <span style="color: orange;">HIRING</span> I am actively looking for highly motivated PhD students (2025 Fall). I have several student RA positions avaiable (standard monthly stipend of 2700 SGD). My group also welcomes visiting scholars (e.g., CSC Project). Feel free to reach out to me as <a href="https://dengyang17.github.io/files/Openings.pdf">[Openings]</a>.<br>
+            <span style="color: orange;">HIRING</span> I am actively looking for highly motivated PhD students (2025 Fall). Feel free to reach out to me as <a href="https://dengyang17.github.io/files/Openings.pdf">[Openings]</a>.<br>
         </p>
     </div>
 </div>
 <hr>
 <p>
     <font size="3">
-     I am currently a lecturer in Nomarl Education Center, Cangzhou Normal University. At the same time, I was a Ph.D student in <a href="">NLP Lab</a>, School of Computer Science, University of Sains Malaysia, working with <a href="https://www.chuatatseng.com/">Associte Prof. Cheah Yu-N</a>.
+     I am currently a lecturer in Nomarl Education Center, Cangzhou Normal University. At the same time, I was a Ph.D student in <a href="">School of Computer Science</a>, University of Sains Malaysia, working with <a href="https://cs.usm.my/index.php/faculty-member/173-cheah-yu-n-associate-professor-dr">Associte Prof. Cheah Yu-N</a>.
     </font>
 </p>
 <p>
