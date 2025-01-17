@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhang Hao (张昊)"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D student at the University of Sains Malaysia, where I was supervised by Dr. Cheah Yu-N. My research centers around Sentiment Analysis (ABSA), LLMs (Security, Alignment), Agent, RAG. I have been developing various sentiment analysis pre-trained language models and building an ACOSQE Sentiment Analysis model for the sentiment analysis field. In the past, I have gained industry experience at companies such as iHealth Labs, Lennove, and Vivaneo.
-
 <header></header>
-
+  
   <h1>
-    Yang Deng <small>(邓扬)</small>
+    Hao Zhang <small>(邓扬)</small>
 </h1>
 <div class="row">
     <div class="col-sm-7">
@@ -39,7 +37,7 @@ I am a Ph.D student at the University of Sains Malaysia, where I was supervised 
 <hr>
 <p>
     <font size="3">
-        I am currently a tenure-track Assistant Professor in School of Computing and Information Systems, Singapore Management University. Before that, I was a postdoctoral research fellow in <a href="https://www.nextcenter.org/">NExT++</a>, School of Computing, National University of Singapore, working with <a href="https://www.chuatatseng.com/">Prof. Tat-Seng Chua</a> and <a href="https://www.comp.nus.edu.sg/~ngsk/">Prof. See-Kiong Ng</a>. I received my Ph.D degree at The Chinese University of Hong Kong, supervised by <a href="https://www1.se.cuhk.edu.hk/~textmine/">Prof. Wai Lam</a>.
+        I am a Ph.D student at the University of Sains Malaysia, where I was supervised by Dr. Cheah Yu-N. My research centers around Sentiment Analysis (ABSA), LLMs (Security, Alignment), Agent, RAG. I have been developing various sentiment analysis pre-trained language models and building an ACOSQE Sentiment Analysis model for the sentiment analysis field. In the past, I have gained industry experience at companies such as iHealth Labs, Lennove, and Vivaneo. I am currently a tenure-track Assistant Professor in School of Computing and Information Systems, Singapore Management University. Before that, I was a postdoctoral research fellow in <a href="https://www.nextcenter.org/">NExT++</a>, School of Computing, National University of Singapore, working with <a href="https://www.chuatatseng.com/">Prof. Tat-Seng Chua</a> and <a href="https://www.comp.nus.edu.sg/~ngsk/">Prof. See-Kiong Ng</a>. I received my Ph.D degree at The Chinese University of Hong Kong, supervised by <a href="https://www1.se.cuhk.edu.hk/~textmine/">Prof. Wai Lam</a>.
     </font>
 </p>
 <p>
