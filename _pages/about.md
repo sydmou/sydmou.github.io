@@ -11,7 +11,7 @@ redirect_from:
 <header></header>
   
   <h1>
-    Hao Zhang <small>(邓扬)</small>
+    Hao Zhang <small>(张昊)</small>
 </h1>
 <div class="row">
     <div class="col-sm-7">
