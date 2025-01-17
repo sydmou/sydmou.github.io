@@ -48,12 +48,11 @@ redirect_from:
         </ul>
     </font>
 </p>
-
 <p>
     <font size="3">
         Work 
         <ul>
-            <li> <b> (2018 - current) Lecturer, Cangzhou Normal University</b>
+            <li> <b>(2018 - current) Lecturer, Cangzhou Normal University</b>
             <li> <b>(2016 - 2018) iOS Engineer, iHealth Labs China (Tianjin)</b>
             <li> <b>(2016.9 - 2016.11) iOS Engineer, iHealth Labs USA (Sunnyvale, California, Silicon Valley)</b>
             <li> <b>(2015 - 2016) Intern, iOS Engineer, iHealth Labs Europe (Ile de France, Paris)</b>
@@ -74,6 +73,7 @@ redirect_from:
     <span class="label label-danger">NEWS</span> (Aug 2024) Invited Task: LLM-powered Conversational Agents @ Huawei Software Technology Summit 2024.<br>
     <span class="label label-danger">NEWS</span> (July 2024) Joined SMU SCIS as an Assistant Professor.<br>
 </p>
+
 <p>
     <font size="3">
         Education 
@@ -83,7 +83,6 @@ redirect_from:
             <li> <b>BSc Computer Science, SUPINFO International University</b>
         </ul>
     </font>
-</p>
 </p>
 
 <p>
