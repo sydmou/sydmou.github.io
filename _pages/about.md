@@ -48,6 +48,7 @@ redirect_from:
         </ul>
     </font>
 </p>
+
 <p>
     <font size="3">
         Work 
@@ -61,6 +62,7 @@ redirect_from:
     </font>
 </p>
 </p>
+
 <p>
     <font size="3">
         Education 
@@ -72,6 +74,7 @@ redirect_from:
     </font>
 </p>
 </p>
+
 <p>
     <font size="3">
         Language 
