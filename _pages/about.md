@@ -7,6 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<header></header>
+
+  <h1>
+    Yang Deng <small>(邓扬)</small>
+</h1>
+<div class="row">
+    <div class="col-sm-7">
+        <p>
+            Assistant Professor<br>
+            <a href="https://computing.smu.edu.sg/people/full-time-faculty">School of Computing and Information Systems</a><br>
+            Singapore Management University<br>
+        </p>
+        <p>
+            <br>
+            <span class="label label-danger">HIRING</span> I am actively looking for highly motivated PhD students (2025 Fall). I have several student RA positions avaiable (standard monthly stipend of 2700 SGD). My group also welcomes visiting scholars (e.g., CSC Project). Feel free to reach out to me as <a href="https://dengyang17.github.io/files/Openings.pdf">[Openings]</a>.<br>
+        </p>
+    </div>
+  
 I am a Ph.D student at the University of Sains Malaysia, where I was supervised by Dr. Cheah Yu-N. My research centers around Sentiment Analysis (ABSA), LLMs (Security, Alignment), Agent, RAG. I have been developing various sentiment analysis pre-trained language models and building an ACOSQE Sentiment Analysis model for the sentiment analysis field. In the past, I have gained industry experience at companies such as iHealth Labs, Lennove, and Vivaneo.
 
 ### Work
