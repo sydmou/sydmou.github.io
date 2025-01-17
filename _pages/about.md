@@ -48,20 +48,19 @@ redirect_from:
         </ul>
     </font>
 </p>
+<hr>
 <p>
     <font size="3">
         Work 
         <ul>
-            <li> <b>(2018 - current) Lecturer, Cangzhou Normal University</b>
-            <li> <b>(2016 - 2018) iOS Engineer, iHealth Labs China (Tianjin)</b>
-            <li> <b>(2016.9 - 2016.11) iOS Engineer, iHealth Labs USA (Sunnyvale, California, Silicon Valley)</b>
-            <li> <b>(2015 - 2016) Intern, iOS Engineer, iHealth Labs Europe (Ile de France, Paris)</b>
-            <li> <b>(2014-2015) Intern, iOS Engineer, Vivaneo Paris</b>
+            <li> <b>(2018 - current) Lecturer, Cangzhou Normal University</b></li>
+            <li> <b>(2016 - 2018) iOS Engineer, iHealth Labs China (Tianjin)</b></li>
+            <li> <b>(2016.9 - 2016.11) iOS Engineer, iHealth Labs USA (Sunnyvale, California, Silicon Valley)</b></li>
+            <li> <b>(2015 - 2016) Intern, iOS Engineer, iHealth Labs Europe (Ile de France, Paris)</b></li>
+            <li> <b>(2014-2015) Intern, iOS Engineer, Vivaneo Paris</b></li>
         </ul>
     </font>
 </p>
-
-
 <hr>
 <p>
     <span style="color: red;">NEWS</span> (Dec 2024) One tutorial proposal accepted by WWW 2025 and two papers by AAAI 2025.<br>
