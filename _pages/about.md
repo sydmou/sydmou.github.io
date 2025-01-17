@@ -65,8 +65,8 @@ redirect_from:
 
 <hr>
 <p>
-    <span class="label label-danger">NEWS</span> (Dec 2024) One tutorial proposal accepted by WWW 2025 and two papers by AAAI 2025.<br>
-    <span class="label label-danger">NEWS</span> (Nov 2024) Invited Task: AI Risks and Safety @ IMDA's Technical Sharing Session.<br>
+    <span style="color: red;">NEWS</span> (Dec 2024) One tutorial proposal accepted by WWW 2025 and two papers by AAAI 2025.<br>
+    <span style="color: red;">NEWS</span> (Nov 2024) Invited Task: AI Risks and Safety @ IMDA's Technical Sharing Session.<br>
     <span class="label label-danger">NEWS</span> (Nov 2024) Received <i>EMNLP 2024 Outstanding Area Chair Awards</i> and <i>NeurIPS 2024 Best Reviewer Awards</i>.<br>
     <span class="label label-danger">NEWS</span> (Nov 2024) Received <i>Google South Asia & Southeast Asia Research Awards 2024</i>.<br>
     <span class="label label-danger">NEWS</span> (Nov 2024) Served as Program Chairs of <a href="https://wing-nus.github.io/SSNLP-2024/">SSNLP 2024</a>.<br>
