@@ -30,9 +30,7 @@ redirect_from:
             <span class="label label-danger">HIRING</span> I am actively looking for highly motivated PhD students (2025 Fall). I have several student RA positions avaiable (standard monthly stipend of 2700 SGD). My group also welcomes visiting scholars (e.g., CSC Project). Feel free to reach out to me as <a href="https://dengyang17.github.io/files/Openings.pdf">[Openings]</a>.<br>
         </p>
     </div>
-    <div class=" col-sm-5" align="middle">
-        <img src="assets/img/dengyang23.jpeg" class="img-responsive img-circle" alt="Yang Deng, 2023" width="200">
-    </div>
+    
 </div>
 <hr>
 <p>
