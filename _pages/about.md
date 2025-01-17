@@ -63,6 +63,32 @@ redirect_from:
 </p>
 <hr>
 <p>
+    <font size="3">
+        Work 
+        <ul>
+            <li> <b>(2018 - current) Lecturer, Cangzhou Normal University</b></li>
+            <li> <b>(2016 - 2018) iOS Engineer, iHealth Labs China (Tianjin)</b></li>
+            <li> <b>(2016.9 - 2016.11) iOS Engineer, iHealth Labs USA (Sunnyvale, California, Silicon Valley)</b></li>
+            <li> <b>(2015 - 2016) Intern, iOS Engineer, iHealth Labs Europe (Ile de France, Paris)</b></li>
+            <li> <b>(2014-2015) Intern, iOS Engineer, Vivaneo Paris</b></li>
+        </ul>
+    </font>
+</p>
+<hr>
+<p>
+    <font size="3">
+        Work 
+        <ul>
+            <li> <b>(2018 - current) Lecturer, Cangzhou Normal University</b></li>
+            <li> <b>(2016 - 2018) iOS Engineer, iHealth Labs China (Tianjin)</b></li>
+            <li> <b>(2016.9 - 2016.11) iOS Engineer, iHealth Labs USA (Sunnyvale, California, Silicon Valley)</b></li>
+            <li> <b>(2015 - 2016) Intern, iOS Engineer, iHealth Labs Europe (Ile de France, Paris)</b></li>
+            <li> <b>(2014-2015) Intern, iOS Engineer, Vivaneo Paris</b></li>
+        </ul>
+    </font>
+</p>
+<hr>
+<p>
     <span style="color: red;">NEWS</span> (Dec 2024) One tutorial proposal accepted by WWW 2025 and two papers by AAAI 2025.<br>
     <span style="color: red;">NEWS</span> (Nov 2024) Invited Task: AI Risks and Safety @ IMDA's Technical Sharing Session.<br>
     <span class="label label-danger">NEWS</span> (Nov 2024) Received <i>EMNLP 2024 Outstanding Area Chair Awards</i> and <i>NeurIPS 2024 Best Reviewer Awards</i>.<br>
