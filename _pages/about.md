@@ -64,26 +64,22 @@ redirect_from:
 <hr>
 <p>
     <font size="3">
-        Work 
+        Education 
         <ul>
-            <li> <b>(2018 - current) Lecturer, Cangzhou Normal University</b></li>
-            <li> <b>(2016 - 2018) iOS Engineer, iHealth Labs China (Tianjin)</b></li>
-            <li> <b>(2016.9 - 2016.11) iOS Engineer, iHealth Labs USA (Sunnyvale, California, Silicon Valley)</b></li>
-            <li> <b>(2015 - 2016) Intern, iOS Engineer, iHealth Labs Europe (Ile de France, Paris)</b></li>
-            <li> <b>(2014-2015) Intern, iOS Engineer, Vivaneo Paris</b></li>
+            <li> <b>PhD, Artificial Intelligence, University Sains Malaysia</b></li>
+            <li> <b>Computer Science, SUPINFO International University</b></li>
+            <li> <b>BSc Computer Science, SUPINFO International University</b></li>
         </ul>
     </font>
 </p>
 <hr>
 <p>
     <font size="3">
-        Work 
+        Language 
         <ul>
-            <li> <b>(2018 - current) Lecturer, Cangzhou Normal University</b></li>
-            <li> <b>(2016 - 2018) iOS Engineer, iHealth Labs China (Tianjin)</b></li>
-            <li> <b>(2016.9 - 2016.11) iOS Engineer, iHealth Labs USA (Sunnyvale, California, Silicon Valley)</b></li>
-            <li> <b>(2015 - 2016) Intern, iOS Engineer, iHealth Labs Europe (Ile de France, Paris)</b></li>
-            <li> <b>(2014-2015) Intern, iOS Engineer, Vivaneo Paris</b></li>
+            <li> <b>Chinese</b></li>
+            <li> <b>English</b></li>
+            <li> <b>French</b></li>
         </ul>
     </font>
 </p>
@@ -99,24 +95,3 @@ redirect_from:
     <span class="label label-danger">NEWS</span> (July 2024) Joined SMU SCIS as an Assistant Professor.<br>
 </p>
 
-<p>
-    <font size="3">
-        Education 
-        <ul>
-            <li> <b>PhD, Artificial Intelligence, University Sains Malaysia</b>
-            <li> <b>Computer Science, SUPINFO International University</b>
-            <li> <b>BSc Computer Science, SUPINFO International University</b>
-        </ul>
-    </font>
-</p>
-
-<p>
-    <font size="3">
-        Language 
-        <ul>
-            <li> <b>Chinese</b>
-            <li> <b>English</b>
-            <li> <b>French</b>
-        </ul>
-    </font>
-</p>
