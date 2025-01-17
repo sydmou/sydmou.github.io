@@ -61,7 +61,6 @@ redirect_from:
         </ul>
     </font>
 </p>
-</p>
 
 
 <hr>
