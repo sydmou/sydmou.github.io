@@ -48,6 +48,40 @@ redirect_from:
         </ul>
     </font>
 </p>
+<p>
+    <font size="3">
+        Work 
+        <ul>
+            <li> <b> (2018 - current) Lecturer, Cangzhou Normal University</b>
+            <li> <b>(2016 - 2018) iOS Engineer, iHealth Labs China (Tianjin)</b>
+            <li> <b>(2016.9 - 2016.11) iOS Engineer, iHealth Labs USA (Sunnyvale, California, Silicon Valley)</b>
+            <li> <b>(2015 - 2016) Intern, iOS Engineer, iHealth Labs Europe (Ile de France, Paris)</b>
+            <li> <b>(2014-2015) Intern, iOS Engineer, Vivaneo Paris</b>
+        </ul>
+    </font>
+</p>
+</p>
+<p>
+    <font size="3">
+        Education 
+        <ul>
+            <li> <b>PhD, Artificial Intelligence, University Sains Malaysia</b>
+            <li> <b>Computer Science, SUPINFO International University</b>
+            <li> <b>BSc Computer Science, SUPINFO International University</b>
+        </ul>
+    </font>
+</p>
+</p>
+<p>
+    <font size="3">
+        Language 
+        <ul>
+            <li> <b>Chinese</b>
+            <li> <b>English</b>
+            <li> <b>French</b>
+        </ul>
+    </font>
+</p>
 <hr>
 <p>
     <span class="label label-danger">NEWS</span> (Dec 2024) One tutorial proposal accepted by WWW 2025 and two papers by AAAI 2025.<br>
@@ -60,20 +94,3 @@ redirect_from:
     <span class="label label-danger">NEWS</span> (July 2024) Joined SMU SCIS as an Assistant Professor.<br>
 </p>
 
-
-### Work
- - **(2018 - current)** Lecturer, Cangzhou Normal University
- - **(2016 - 2018)** iOS Engineer, iHealth Labs China (Tianjin)
- - **(2016.9 - 2016.11)** iOS Engineer, iHealth Labs USA (Sunnyvale, California, Silicon Valley)
- - **(2015 - 2016)** Intern, iOS Engineer, iHealth Labs Europe (Ile de France, Paris)
- - **(2014-2015)** Intern, iOS Engineer, Vivaneo Paris
-
-### Education
- - PhD, Artificial Intelligence, University Sains Malaysia
- - MSc Computer Science, SUPINFO International University
- - BSc Computer Science, SUPINFO International University
-
-### Language
- - Chinese
- - English
- - French
