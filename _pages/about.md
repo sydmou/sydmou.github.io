@@ -33,6 +33,11 @@ redirect_from:
 </div>
 <hr>
 <p>
+    <span style="color: red;">NEWS</span> (Nov 2024) One ABSA-related survey accepted by Artificial Intelligence Review,(Q1,10.7)<br>
+    <span style="color: red;">NEWS</span> (Jan 2024) One ABSA-related paper accepted by EMNLP Findings 2024.<br>
+</p>
+<hr>
+<p>
     <font size="3">
      I am currently a lecturer at the Normal Education Center, Cangzhou Normal University. At the same time, I was a Ph.D student in <a href="https://cs.usm.my/">School of Computer Science</a>, University of Sains Malaysia, working with <a href="https://cs.usm.my/index.php/faculty-member/173-cheah-yu-n-associate-professor-dr">Associte Prof. Cheah Yu-N</a>.
     </font>
@@ -83,9 +88,5 @@ redirect_from:
         </ul>
     </font>
 </p>
-<hr>
-<p>
-    <span style="color: red;">NEWS</span> (Nov 2024) One ABSA-related survey accepted by Artificial Intelligence Review,(Q1,10.7)<br>
-    <span style="color: red;">NEWS</span> (Jan 2024) One ABSA-related paper accepted by EMNLP Findings 2024.<br>
-</p>
+
 
