@@ -34,14 +34,14 @@ redirect_from:
 <hr>
 <p>
     <font size="3">
-     I am currently a lecturer in Nomarl Education Center, Cangzhou Normal University. At the same time, I was a Ph.D student in <a href="https://cs.usm.my/">School of Computer Science</a>, University of Sains Malaysia, working with <a href="https://cs.usm.my/index.php/faculty-member/173-cheah-yu-n-associate-professor-dr">Associte Prof. Cheah Yu-N</a>.
+     I am currently a lecturer at the Normal Education Center, Cangzhou Normal University. At the same time, I was a Ph.D student in <a href="https://cs.usm.my/">School of Computer Science</a>, University of Sains Malaysia, working with <a href="https://cs.usm.my/index.php/faculty-member/173-cheah-yu-n-associate-professor-dr">Associte Prof. Cheah Yu-N</a>.
     </font>
 </p>
 <p>
     <font size="3">
         My research mainly lies in Natural Language Processing (NLP) and Large Language Models (LLMs) – with special focus on 
         <ul>
-            <li> <b>Sentiment Analysis</b><br>ACOS Sentiment Analysis Survey <a href="https://arxiv.org/abs/2305.02750">[IJCAI 2023]</a>,<br>ACOS Sentiment Analysis<a href="https://arxiv.org/abs/2403.06769">[EMNLP 2024 Findings]</a>, <br>Mutimodal Sentiment Analysis<a href="https://aclanthology.org/2024.emnlp-main.1175/">[EMNLP 2024 Findings]</a> </li>
+            <li> <b>Sentiment Analysis</b><br>ACOS Sentiment Analysis Survey <a href="https://link.springer.com/article/10.1007/s10462-023-10633-x">[Artificial Intelligence Review 2024]</a>,<br>ACOS Sentiment Analysis<a href="https://aclanthology.org/2024.findings-emnlp.453/">[EMNLP 2024 Findings]</a>, <br>Mutimodal Sentiment Analysis<a href="https://aclanthology.org/2024.emnlp-main.1175/">[EMNLP 2024 Findings]</a> </li>
             <li> <b>Trust and Reliability of LLMs</b><br>Knowledge Boundary,<br>Hallucination, Safety</li>
             <li> <b>Language Model Powered Agents</b><br>Tutorial, Survey (Role-playing Agent), <br>Web Agent, Travel Agent</li>
             <li> <b>RAG</b><br>Perspectives Paper, User Understanding,<br>Personalization</li>
