@@ -85,7 +85,7 @@ redirect_from:
 </p>
 <hr>
 <p>
-    <span style="color: red;">NEWS</span> (Nov 2024) One ABSA-related survey accepted by Artificial Intelligence Review, 2024 (Q1,10.7)<br>
+    <span style="color: red;">NEWS</span> (Nov 2024) One ABSA-related survey accepted by Artificial Intelligence Review,(Q1,10.7)<br>
     <span style="color: red;">NEWS</span> (Jan 2024) One ABSA-related paper accepted by EMNLP Findings 2024.<br>
 </p>
 
