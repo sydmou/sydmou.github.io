@@ -16,9 +16,9 @@ redirect_from:
 <div class="row">
     <div class="col-sm-7">
         <p>
-            Assistant Professor<br>
-            <a href="https://computing.smu.edu.sg/people/full-time-faculty">School of Computing and Information Systems</a><br>
-            Singapore Management University<br>
+            Lecture<br>
+            <a href="">Modern Education Center</a><br>
+            University of Sains Malaysia<br>
         </p>
         <p>
             <br>
