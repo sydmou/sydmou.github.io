@@ -22,12 +22,12 @@ redirect_from:
         </p>
         <p>
             <br>
-            [<a href="mailto:dengyang17dydy@gmail.com">Email</a>]
+            [<a href="[mailto:zhanghaousm@gmail.com]">Email</a>]
             [<a href="https://scholar.google.com/citations?user=OshWT3UAAAAJ">Google Scholar</a>]
         </p>
         <p>
             <br>
-            <span style="color: orange;">HIRING</span> I am actively looking for highly motivated PhD students (2025 Fall). Feel free to reach out to me as <a href="https://dengyang17.github.io/files/Openings.pdf">[Openings]</a>.<br>
+            <span style="color: orange;">HIRING</span> I am actively looking for a position in an AI research institute or a postdoctoral role related to my areas of expertise. (2025 Spring). Feel free to reach out to me as <a href="https://sydmou.github.io/cv/">[Openings]</a>.<br>
         </p>
     </div>
 </div>
