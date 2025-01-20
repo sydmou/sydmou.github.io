@@ -23,7 +23,7 @@ redirect_from:
         <p>
             <br>
             [<a href="[mailto:zhanghaousm@gmail.com]">Email</a>]
-            [<a href="https://scholar.google.com/citations?user=OshWT3UAAAAJ">Google Scholar</a>]
+            [<a href="https://scholar.google.ca/citations?hl=en&user=crmoLvMAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>]
         </p>
         <p>
             <br>
