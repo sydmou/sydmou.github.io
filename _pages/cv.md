@@ -30,7 +30,10 @@ redirect_from:
 ## Working Experience
 
 * **Lecturer, Cangzhou Normal University** <span style="float: right;">Sep 2018 - Present</span>\
-   <span class='desc'>Led the construction and development of the IDC Data Center. </span>
+   <span class='desc'>Led the planning, investment, and operational management of the university’s IDC Data Center, including large-scale IT infrastructure projects such as server room setup, equipment procurement, and network optimization, supporting digital transformation. </span>\
+   <span class='desc'>Spearheaded the design and implementation of smart campus initiatives and oversaw comprehensive wireless network coverage, enhancing connectivity for students, faculty, and staff. </span>\
+   <span class='desc'>Provided technical training and support to improve the adoption of new technologies for staff. </span>\
+   <span class='desc'>Teaching foundational computer science courses (e.g., Python, Linux) and guiding practical experiments. </span>
 * **iOS Engineer, iHealth Labs China (Tianjin Office)**<span style="float: right;">Jan 2016 - Jun 2018</span>\
    <span class='desc'>Led the development of a Nurse App, empowering doctors to monitor \\
   patients' 24-hour blood pressure and ECG data in real-time. </span>\
