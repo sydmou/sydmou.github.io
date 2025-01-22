@@ -31,9 +31,10 @@ redirect_from:
 
 * **Lecturer, Cangzhou Normal University** <span style="float: right;">Sep 2018 - Present</span>\
    <span class='desc'>Led the planning, investment, and operational management of the university’s IDC Data Center, </span>\
-   <span class='desc'> including large-scale IT infrastructure projects such as server room setup, equipment procurement, and network optimization, supporting digital transformation. </span>\
-   <span class='desc'>Spearheaded the design and implementation of smart campus initiatives and oversaw comprehensive wireless network coverage,  </span>\
-   <span class='desc'>enhancing connectivity for students, faculty, and staff. </span>\
+   <span class='desc'> including large-scale IT infrastructure projects such as server room setup, equipment procurement, </span>\
+   <span class='desc'> and network optimization, supporting digital transformation. </span>\
+   <span class='desc'>Spearheaded the design and implementation of smart campus initiatives and oversaw comprehensive  </span>\
+   <span class='desc'>wireless network coverage,  enhancing connectivity for students, faculty, and staff. </span>\
    <span class='desc'>Provided technical training and support to improve the adoption of new technologies for staff. </span>\
    <span class='desc'>Teaching foundational computer science courses (e.g., Python, Linux) and guiding practical experiments. </span>
 * **iOS Engineer, iHealth Labs China (Tianjin Office)**<span style="float: right;">Jan 2016 - Jun 2018</span>\
