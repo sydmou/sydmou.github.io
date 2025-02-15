@@ -16,7 +16,7 @@ redirect_from:
 <div class="row">
     <div class="col-sm-7">
         <p>
-            PnD Student<br>
+            PhD Student<br>
             <a href="">School of Computer Sciences</a><br>
             University of Sains Malaysia<br>
         </p>
