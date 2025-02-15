@@ -38,12 +38,12 @@ redirect_from:
    <span class='desc'>Provided technical training and support to improve the adoption of new technologies for staff. </span>\
    <span class='desc'>Teaching foundational computer science courses (e.g., Python, Linux) and guiding practical experiments. </span>
 * **iOS Engineer, iHealth Labs China (Tianjin Office)**<span style="float: right;">Jan 2016 - Jun 2018</span>\
-   <span class='desc'>Led the development of a Nurse App, empowering doctors to monitor \\
-  patients' 24-hour blood pressure and ECG data in real-time. </span>\
-   <span class='desc'>Led chronic disease management project X, collaboration with \\
-   the U.S. Department of Defense and Care Innovation Inc. </span>\
-   <span class='desc'>Pioneered chronic disease management solutions for U.S. veterans, \\
-   enhancing care coordination and patient outcomes. </span>
+   <span class='desc'>Led the development of a Nurse App, empowering doctors to monitor patients' 24-hour blood pressure\\
+   and ECG data in real-time. </span>\
+   <span class='desc'>Led chronic disease management project X, collaboration with the U.S. Department of Defense \\
+   and Care Innovation Inc. </span>\
+   <span class='desc'>Pioneered chronic disease management solutions for U.S. veterans, enhancing care coordination \\
+    and patient outcomes. </span>
 * **iOS Engineer, iHealth Labs USA, (Silicon Valley Office, Sunnyvale, California)**<span style="float: right;">Aug 2016 - Dec 2016</span>\
    <span class='desc'>Directed designing and developing a nurse app project for Mirus Hospital in Australia. </span>\
    <span class='desc'>Led key projects within iHealth’s American team, driving healthcare solutions. </span>
