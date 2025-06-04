@@ -33,7 +33,7 @@ redirect_from:
 </div>
 <hr>
 <p>
-    <span style="color: red;">NEWS</span> (Jun 2025) Launching <a href="https://tbxwlkfa.manus.space/" target="_blank" style="color: blue; font-weight: bold;">Stanford Emotion Town v3</a> – a sandbox of <strong style="color: darkorange;">emotion-aware AI agents</strong> simulating social dynamics through MBTI & OCEAN personality models.
+    <span style="color: red;">NEWS</span> (Jun 2025) Launching <a href="https://tbxwlkfa.manus.space/" target="_blank" style="color: blue; font-weight: bold;">Stanford Smallville v3</a> – a sandbox of <strong style="color: darkorange;">emotion-aware AI agents</strong> simulating social dynamics through MBTI & OCEAN personality models.<br>
     <span style="color: red;">NEWS</span> (Nov 2024) One ABSA-related survey accepted by Artificial Intelligence Review,(Q1,10.7)<br>
     <span style="color: red;">NEWS</span> (Jan 2024) One ABSA-related paper accepted by EMNLP Findings 2024.<br>
 </p>
