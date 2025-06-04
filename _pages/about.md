@@ -17,7 +17,7 @@ redirect_from:
     <div class="col-sm-7">
         <p>
             PhD Student<br> University of Sains Malaysia<br>
-            <a href="">School of Computer Sciences</a><br>
+            <a href="https://cs.usm.my/">School of Computer Sciences</a><br>
         </p>
         <p>
             <br>
