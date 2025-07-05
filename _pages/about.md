@@ -32,7 +32,7 @@ redirect_from:
 </div>
 <hr>
 <p>
-    <span style="color: red;">NEWS</span> (Jun 2025) Launching <a href="https://tbxwlkfa.manus.space/" target="_blank" style="color: blue; font-weight: bold;">Stanford Smallville v3</a> – a sandbox of <strong style="color: darkorange;">sentiment & emotion aware AI agents</strong> simulating social dynamics through MBTI & OCEAN personality models.<br>
+    <span style="color: red;">NEWS</span> (Jun 2025) Launching <a href="https://tbxwlkfa.manus.space/" target="_blank" style="color: blue; font-weight: bold;">EmoTown - Powered by Stanford Smallville V3 </a> – a sandbox of <strong style="color: darkorange;">sentiment & emotion aware AI agents</strong> simulating social dynamics through MBTI & OCEAN personality models.<br>
     <span style="color: red;">NEWS</span> (Nov 2024) One ABSA-related survey accepted by Artificial Intelligence Review,(Q1,10.7)<br>
     <span style="color: red;">NEWS</span> (Jan 2024) One ABSA-related paper accepted by EMNLP Findings 2024.<br>
 </p>
@@ -47,7 +47,7 @@ redirect_from:
         My research mainly lies in Natural Language Processing (NLP) and Large Language Models (LLMs) – with special focus on 
         <ul>
             <li> <b>Sentiment Analysis</b><br>ACOS Sentiment Analysis Survey <a href="https://link.springer.com/article/10.1007/s10462-023-10633-x">[Artificial Intelligence Review 2024]</a>,<br>ACOS Sentiment Analysis <a href="https://aclanthology.org/2024.findings-emnlp.453/">[EMNLP 2024 Findings]</a>, <br>Mutimodal Sentiment Analysis <a href="https://www.researchgate.net/profile/Wan-Mohd-Nazmee-Zainon/publication/370528996_Improving_Targeted_Multimodal_Sentiment_Classification_with_Semantic_Description_of_Images/links/646204dbfbaf5b27a4ca535b/Improving-Targeted-Multimodal-Sentiment-Classification-with-Semantic-Description-of-Images.pdf">[Computers, Materials & Continua 2024]</a> </li>
-            <li> <b>Language Model Powered Agents</b><br>Tutorial, Survey (Role-playing Agent) <a href="https://tbxwlkfa.manus.space/" target="_blank" style="color: blue; font-weight: bold;">Stanford Smallville v3</a></li>
+            <li> <b>Language Model Powered Agents</b><br>Tutorial, Survey (Role-playing Agent) <a href="https://tbxwlkfa.manus.space/" target="_blank" style="color: blue; font-weight: bold;">EmoTown - Powered by Stanford Smallville V3</a></li>
             <li> <b>Trust and Reliability of LLMs</b><br>Knowledge Boundary,<br>Hallucination, Safety</li>
         </ul>
     </font>
@@ -71,7 +71,7 @@ redirect_from:
         Education 
         <ul>
             <li> <b>PhD, Artificial Intelligence, University Sains Malaysia</b></li>
-            <li> <b>Computer Science, SUPINFO International University</b></li>
+            <li> <b>Master Computer Science, SUPINFO International University</b></li>
             <li> <b>BSc Computer Science, SUPINFO International University</b></li>
         </ul>
     </font>
