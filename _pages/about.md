@@ -71,8 +71,8 @@ redirect_from:
         Education 
         <ul>
             <li> <b>PhD, Artificial Intelligence, University Sains Malaysia</b></li>
-            <li> <b>Master Computer Science, SUPINFO International University</b></li>
-            <li> <b>BSc Computer Science, SUPINFO International University</b></li>
+            <li> <b>Master, Computer Science, SUPINFO International University</b></li>
+            <li> <b>BSc, Computer Science, SUPINFO International University</b></li>
         </ul>
     </font>
 </p>
