@@ -59,7 +59,7 @@ redirect_from:
         <ul>
             <li> <b>(2018 - current) Lecturer, Cangzhou Normal University</b></li>
             <li> <b>(2016 - 2018) iOS Engineer, iHealth Labs China (Tianjin)</b></li>
-            <li> <b>(2016.9 - 2016.11) iOS Engineer, iHealth Labs USA (Sunnyvale, California, Silicon Valley)</b></li>
+            <li> <b>(2016.7 - 2016.12) iOS Engineer, iHealth Labs USA (Sunnyvale, California, Silicon Valley)</b></li>
             <li> <b>(2015 - 2016) Intern, iOS Engineer, iHealth Labs Europe (Ile de France, Paris)</b></li>
             <li> <b>(2014-2015) Intern, iOS Engineer, Vivaneo Paris</b></li>
         </ul>
