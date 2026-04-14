@@ -46,18 +46,32 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    border: 1px solid #e9edf4;
+    border-radius: 14px;
+    background: #fcfdff;
+    box-shadow: 0 4px 14px rgba(15, 23, 42, 0.06);
+    padding: 1.4em;
+    margin-bottom: 1.2em;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
     
+    &:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 8px 20px rgba(15, 23, 42, 0.1);
+    }
 
     .paper-box-image{
         justify-content: center;
         display: flex;
         width: 100%;
         order: 2;
+        > div {
+            position: relative;
+        }
         img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            width: 100%;
+            max-width: 260px;
+            border-radius: 10px;
+            box-shadow: 0 6px 16px rgba(15, 23, 42, 0.2);
             object-fit: cover;
         }
     }
@@ -70,15 +84,15 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+            min-width: 220px;
+            max-width: 34%;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
+            padding-left: 1.6em;
+            max-width: 66%;
             order: 2;
         }
 
@@ -104,6 +118,49 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
+    background-color: #1d4ed8;
     font-size: .8em;
+    border-radius: 999px;
+    line-height: 1.8;
+}
+
+.about-intro {
+    background: #f8fafc;
+    border: 1px solid #e6edf7;
+    border-radius: 12px;
+    padding: 1rem 1.15rem;
+    margin: 0.55rem 0 1.5rem;
+    line-height: 1.85;
+    font-size: 1.02rem;
+}
+
+.about-links {
+    margin: 0.6rem 0 0.1rem;
+    font-size: 0.95rem;
+    line-height: 1.8;
+
+    a {
+        text-decoration: none;
+        white-space: nowrap;
+    }
+
+    .dot {
+        color: #94a3b8;
+        margin: 0 0.35rem;
+    }
+}
+
+.news-list ul {
+    margin-top: 0.2rem;
+}
+
+.news-list li {
+    margin-bottom: 0.42rem;
+}
+
+.page__content h1 {
+    margin-top: 1.55rem;
+    margin-bottom: 0.85rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid #e8edf5;
 }

@@ -25,3 +25,6 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+# Jekyll 3.x serve has runtime issues with WEBrick 1.9+
+gem "webrick", "~> 1.8.1"
