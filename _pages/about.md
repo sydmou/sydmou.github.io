@@ -91,6 +91,8 @@ My research interests include deep learning, natural language processing, inform
 
 Ke Gong, Ding Xu, Fusen Guo, Zihan Wang, Fangrui Zhang, **Congqing He#**
 
+*# corresponding author*
+
 **IEEE Transactions on Instrumentation and Measurement (2025)**, JCR Q1, 中科院2区, IF: 5.9
 </div>
 </div>
@@ -122,9 +124,11 @@ Hao Zhang, Yu-N Cheah, **Congqing He**, Feifan Yi
 
 [Learning to Predict Charges for Legal Judgment via Self-Attentive Capsule Network](https://ecai2020.eu/papers/98_paper.pdf)
 
-Yuquan Le*, **Congqing He***, Meng Chen, Youzheng Wu, Bowen Zhou
+Yuquan Le*#, **Congqing He*#**, Meng Chen, Youzheng Wu, Bowen Zhou
 
-**ECAI 2020**, CCF B, Acceptance rate: 26.8%
+<em>* co-first author; # co-corresponding author</em>
+
+**ECAI 2020**, CCF B
 </div>
 </div>
 

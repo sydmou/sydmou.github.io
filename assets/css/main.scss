@@ -164,3 +164,32 @@ h1:before, .anchor:before {
     padding-bottom: 0.35rem;
     border-bottom: 1px solid #e8edf5;
 }
+
+.site-footer-counter {
+    margin: 1.25rem auto 2rem;
+    padding: 0.55rem 0.9rem;
+    width: fit-content;
+    max-width: calc(100% - 2rem);
+    text-align: center;
+    font-size: 0.92rem;
+    color: #64748b;
+    border: 1px solid #e2e8f0;
+    border-radius: 999px;
+    background: #f8fafc;
+
+    i {
+        margin-right: 0.2rem;
+    }
+
+    .counter-sep {
+        margin: 0 0.5rem;
+        color: #94a3b8;
+    }
+
+    #busuanzi_container_site_pv,
+    #busuanzi_container_page_pv {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.1rem;
+    }
+}
