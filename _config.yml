@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hao Zhang<br>张昊"
   avatar           : "images/个人照片.jpg"
-  bio              : "Lecturer, Huzhou Normal University"
+  bio              : "Researcher, XU Exponential University of Applied Sciences GmbH"
   location         : "Berlin, Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=baHj0YsAAAAJ"
-  email            : "hecongqing@hotmail.com"
+  email            : "zhanghaousm@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hecongqing"
+  github           : "sydmou"
   google_plus      :
   keybase          :
   instagram        :
