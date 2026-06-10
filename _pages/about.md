@@ -10,11 +10,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div class="about-intro" markdown="1">
-I am currently a Lecturer at the School of Information Engineering, Huzhou Normal University, and a Part-time Postdoctoral Fellow at The Hong Kong Polytechnic University. If you are interested in academic collaboration, please feel free to contact me at [hecongqing@hotmail.com](mailto:hecongqing@hotmail.com).
+I am currently a Visiting Researcher and Head of X.Lab at XU Exponential University of Applied Sciences, Germany. My work focuses on applied artificial intelligence, large language models (LLMs), AI agents, robotics, and enterprise AI solutions, with an emphasis on bridging academic research and industrial innovation. If you are interested in academic collaboration, please feel free to contact me at, please feel free to contact me at [zhanghaousm@gmail.com](mailto:zhanghaousm@gmail.com).
 
-I received my Ph.D. from the School of Computer Science, Universiti Sains Malaysia. Before that, I earned my M.S. from Hunan University and my B.S. from Hefei Normal University.
+I received my Ph.D. in Artificial Intelligence from Universiti Sains Malaysia (USM). Prior to that, I obtained my M.S. and B.S. degrees in Computer Science from the International University of SUPINFO, Paris, France.
 
-My research interests include deep learning, natural language processing, information retrieval, and AI for Law. I have published 10+ papers in SCI journals and top international AI conferences such as *Computer Science Review*, *ESWA*, *TIM*, *ACL*, *EMNLP*, and *ECAI*. More details can be found on my [Google Scholar](https://scholar.google.com/citations?user=baHj0YsAAAAJ).
+My research interests include natural language processing (NLP), large language models (LLMs), sentiment analysis, information extraction, explainable AI, and trustworthy AI. My research has focused on Aspect-Based Sentiment Analysis (ABSA), Aspect-Category-Opinion-Sentiment Quadruple Extraction (ACOSQE), Chain-of-Thought reasoning, and AI-driven information processing. I have published 10+ papers in SCI journals and top international AI conferences such as *Computer Science Review*, *Artificial Intelligence Review*, *EMNLP*, and *ACL*. More details can be found on my [Google Scholar](https://scholar.google.com/citations?user=crmoLvMAAAAJ).
 
 </div>
 
