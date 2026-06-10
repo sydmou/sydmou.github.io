@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hao Zhang (张昊)"
-description              : "Research in NLP, LLM， IR, and AI for Law"
+description              : "Research in NLP, LLM，RL, and Agent"
 repository               : "sydmou/sydmou.github.io"
 google_scholar_stats_use_cdn : true
 
