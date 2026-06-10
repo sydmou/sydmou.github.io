@@ -40,11 +40,11 @@ My research interests include deep learning, natural language processing, inform
 # 🔥 News
 
 <div class="news-list" markdown="1">
+- **May 2026.** I completed my Ph.D. in the School of Computer Science at Universiti Sains Malaysia.
 - **Apr 2026.** Our paper, *Tree-CoT-RT: An Explainable Multi-Path Tree-Guided Chain-of-Thought and Reinforcement Learning Framework for Aspect Sentiment Quad Prediction*, was accepted by *Findings of ACL 2026*.
 - **Jan 2026.** Our survey paper, *A Survey of Large Language Models for Legal Applications: Progress, Prospects and Challenges*, was published in *Computer Science Review*.
-- **Dec 2025.** I joined Huzhou Normal University as a Lecturer in the School of Information Engineering.
-- **Oct 2025.** I started serving as a Part-time Postdoctoral Fellow at The Hong Kong Polytechnic University.
-- **Oct 2025.** I completed my Ph.D. in the School of Computer Science at Universiti Sains Malaysia.
+- **Dec 2025.** Our paper, *SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation*, was accepted by *Mains of EMNLP 2025*.
+- **Oct 2025.** I started serving as a Visiting Researcher at XU Exponential University of Applied Sciences GmbH.
 </div>
 
 <span class='anchor' id='publications'></span>
