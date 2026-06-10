@@ -22,9 +22,9 @@ My research interests include deep learning, natural language processing, inform
 
 # 📖 Educations
 
-- **Mar. 2021 - Oct. 2025**, Ph.D. in School of Computer Science, Universiti Sains Malaysia.
-- **Sep. 2016 - Jun. 2019**, M.S. in College of Computer Science and Electronic Engineering, Hunan University.
-- **Sep. 2012 - Jun. 2016**, B.S. in School of Computer Science and Technology, Hefei Normal University.
+- **Apr. 2021 - May. 2026**, Ph.D. in School of Computer Science, Universiti Sains Malaysia.
+- **Oct. 2013 - Sep. 2015**, M.S. in Computer Science Engineering, École Supérieure d'Informatique (SUPINFO).
+- **Sep. 2009 - Jun. 2013**, B.S. in Computer Science Engineering, École Supérieure d'Informatique (SUPINFO).
 
 <span class='anchor' id='experience'></span>
 
