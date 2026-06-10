@@ -31,7 +31,7 @@ My research interests include deep learning, natural language processing, inform
 # 💼 Experience
 - **Oct. 2025 - present**, Visiting Researcher, XU Exponential University of Applied Sciences GmbH, Potsdam, Germany.
 - **Sep. 2018 - present**, Lecturer, Cangzhou Normal University, Cangzhou, China.
-- **Ja. 2016 - Apr. 2018**, iOS Engineer, iHealth, Tianjin, China (collaborating across Paris, France and California, USA)
+- **Ja. 2016 - Apr. 2018**, iOS Engineer & Projetct Manger, iHealth (Tianjin, China; Paris, France; California, USA)
 
 <span class='anchor' id='news'></span>
 
