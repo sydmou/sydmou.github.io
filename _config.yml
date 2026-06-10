@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Congqing He (何从庆)"
+title                    : "Hao Zhang (张昊)"
 description              : "Research in NLP, LLM， IR, and AI for Law"
-repository               : "hecongqing/hecongqing.github.io"
+repository               : "sydmou/sydmou.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
