@@ -29,11 +29,9 @@ My research interests include deep learning, natural language processing, inform
 <span class='anchor' id='experience'></span>
 
 # 💼 Experience
-
-- **Dec. 2025 - present**, Lecturer, Huzhou Normal University, Huzhou, China.
-- **Oct. 2025 - present**, Part-time Postdoctoral Fellow, The Hong Kong Polytechnic University, Hong Kong, China.
-- **Jul. 2025 - Oct. 2025**, Research Assistant, The Hong Kong Polytechnic University, Hong Kong, China.
-- **Jun. 2019 - Oct. 2020**, Algorithm Engineer, JD, Beijing, China.
+- **Oct. 2025 - present**, Visiting Researcher, XU Exponential University of Applied Sciences GmbH, Potsdam, Germany.
+- **Sep. 2018 - present**, Lecturer, Cangzhou Normal University, Cangzhou, China.
+- **Ja. 2016 - Apr. 2018**, iOS Engineer, iHealth, Tianjin, China (collaborating across Paris, France and California, USA)
 
 <span class='anchor' id='news'></span>
 
