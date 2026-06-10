@@ -134,13 +134,10 @@ Yuquan Le*#, **Congqing He*#**, Meng Chen, Youzheng Wu, Bowen Zhou
 
 # 🎖 Honors and Awards
 
-- **2023.** 2nd place in Legal Case Retrieval, Challenge of AI in Law 2023.
-- **2020.** 3rd place in Consumer Event-Cause Extraction, IEEE ICDM 2020.
-- **2020.** 2nd place in Citation Intent Recognition, Microsoft DigSci Competition.
-- **2019.** 3rd place in Similar Case Matching, CCL 2019 and Challenge of AI in Law.
+- **2024.** X.Lab Year Star, XU & X.lab.
 
 <span class='anchor' id='academic-services'></span>
 
 # 🤝 Academic Services
 
-Serving as a reviewer for multiple SCI/EI journals, including *Computer Science Review*, *Engineering Applications of Artificial Intelligence*, *Information Processing & Management*, *Expert Systems with Applications*, *Journal of King Saud University - Computer and Information Sciences*, *Humanities & Social Sciences Communications*, *International Journal of Machine Learning and Cybernetics*, *Engineering Research Express*, and *PeerJ Computer Science*.
+Serving as a reviewer for multiple SCI/EI journals, including *Computer Science Review*, *Engineering Applications of Artificial Intelligence*, *Information Processing & Management*, and *NeurIPS 2026*.
