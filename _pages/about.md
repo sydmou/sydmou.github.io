@@ -140,4 +140,4 @@ Yuquan Le*#, **Congqing He*#**, Meng Chen, Youzheng Wu, Bowen Zhou
 
 # 🤝 Academic Services
 
-Serving as a reviewer for multiple SCI/EI journals and the TOP AI Conference, including *Discover Artificial Intelligence*, *Cluster Computing*, *The Journal of Supercomputing*, and *NeurIPS 2026*.
+Serving as a reviewer for multiple SCI/EI journals and the TOP AI Conference, including *Discover Artificial Intelligence*, *Cluster Computing*, *The Journal of Supercomputing*, *Frontiers in Communication* and *NeurIPS 2026*.
