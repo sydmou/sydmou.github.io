@@ -1,0 +1,141 @@
+/* Small adjustments to the original design; typography inherits Trebuchet MS. */
+.page__content a {
+  text-underline-offset: 0.16em;
+  text-decoration-thickness: 1px;
+}
+
+.page__content h1 {
+  color: #374650;
+  scroll-margin-top: 5rem;
+}
+
+.about-intro p:last-child,
+.paper-box-text p:last-child {
+  margin-bottom: 0;
+}
+
+.paper-box {
+  box-shadow: 0 2px 10px rgba(15, 23, 42, 0.04);
+}
+
+.paper-box .paper-box-image img {
+  box-shadow: 0 3px 12px rgba(15, 23, 42, 0.12);
+}
+
+.badge {
+  background-color: #315b91;
+}
+
+.author__urls-wrapper { cursor: auto; }
+.author__urls li { white-space: normal; overflow-wrap: anywhere; }
+.author__urls a { display: flex; align-items: baseline; gap: 0.2em; }
+.author__urls a i { flex: 0 0 1.25em; }
+.author__urls a[href^="mailto:"] { font-size: 0.93em; }
+
+a:focus-visible, button:focus-visible, summary:focus-visible {
+  outline: 2px solid #315b91;
+  outline-offset: 4px;
+}
+
+/* Two compact groups keep the same navigation on desktop and mobile. */
+.grouped-nav { position: relative; }
+.grouped-nav .nav-groups { display: flex; gap: 1.25rem; }
+.nav-group { position: relative; }
+.nav-group summary {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  min-height: 38px;
+  padding: 0.4rem 0.65rem;
+  color: #52616d;
+  font-weight: 700;
+  list-style: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.nav-group summary::-webkit-details-marker { display: none; }
+.nav-group summary:hover, .nav-group[open] summary { color: #224b8d; background: #f5f8fc; }
+.nav-chevron {
+  width: 6px;
+  height: 6px;
+  border-right: 1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor;
+  transform: rotate(45deg) translateY(-2px);
+}
+.nav-group[open] .nav-chevron { transform: rotate(225deg) translate(-1px, -1px); }
+.grouped-nav .nav-submenu {
+  position: absolute;
+  top: calc(100% + 0.5rem);
+  left: 0;
+  width: 235px;
+  max-width: calc(100vw - 2rem);
+  padding: 0.4rem;
+  background: #fff;
+  border: 1px solid #e3e9f0;
+  border-radius: 8px;
+  box-shadow: 0 6px 20px rgba(15, 23, 42, 0.09);
+  max-height: calc(100dvh - 80px);
+  overflow-y: auto;
+}
+.nav-submenu a {
+  display: block;
+  padding: 0.7rem 0.8rem;
+  color: #52616d;
+  line-height: 1.4;
+  border-radius: 4px;
+}
+.nav-submenu a:hover, .nav-submenu a:focus-visible { color: #224b8d; background: #f5f8fc; }
+.nav-submenu .nav-home-link { font-weight: 700; }
+
+@media (min-width: 925px) {
+  .author__urls { display: block !important; }
+}
+
+@media (min-width: 768px) {
+  .paper-box .paper-box-image { min-width: 0; width: 34%; }
+}
+
+@media (max-width: 924px) {
+  .profile_box {
+    display: grid;
+    grid-template-columns: 84px minmax(0, 1fr);
+    gap: 1rem;
+    align-items: center;
+  }
+  .author__avatar, .author__avatar img { width: 84px; }
+  .author__content { padding: 0; }
+  .sidebar .author__name { text-align: left !important; margin-bottom: 0.5rem; }
+  .author__urls-wrapper { grid-column: 1 / -1; margin: 0; }
+  .author__urls {
+    display: flex !important; // The theme's resize handler sets an inline display value.
+    flex-wrap: wrap;
+    gap: 0.25rem 1rem;
+    position: static;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-shadow: none;
+  }
+  .author__urls::before, .author__urls::after, .author__urls_sm { display: none; }
+  .author__urls li:first-child { flex-basis: 100%; }
+  .author__urls li:first-child div { margin-bottom: 0.2rem !important; }
+  .author__urls a { padding: 0.35rem 0; margin: 0; }
+  .sidebar { padding-bottom: 1rem; border-bottom: 1px solid #e8edf5; }
+}
+
+@media (max-width: 767px) {
+  .nav-group { position: static; }
+  .about-intro { padding: 1rem; line-height: 1.75; }
+  .paper-box { padding: 1rem; }
+  .paper-box .paper-box-image { margin-top: 1rem; }
+  .page__content h1 { font-size: 1.35rem; }
+  .site-footer-counter { font-size: 0.8rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+}

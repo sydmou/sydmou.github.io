@@ -6,8 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+url                      : "https://hecongqing.github.io"
+baseurl                  : ""
 title                    : "Congqing He (何从庆)"
-description              : "Research in NLP, LLM， IR, and AI for Law"
+description              : "Research in NLP, LLMs, IR, and AI for Law"
 repository               : "hecongqing/hecongqing.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -65,6 +67,11 @@ include:
   - _pages
   - files
 exclude:
+  - ops
+  - run_server.sh
+  - cpp-course/README.md
+  - cpp-course/TERMINOLOGY.md
+  - cpp-course/terminology-audit.mjs
   - docs
   - google_scholar_crawler
   - "*.sublime-project"
@@ -152,6 +159,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-redirect-from
   - jemoji
 
 

@@ -1,5 +1,5 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
-  <div class="sidebar sticky">
+  <div class="sidebar{% unless page.academic_home %} sticky{% endunless %}">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
@@ -9,6 +9,11 @@
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
+  {% endif %}
+  {% if page.academic_home %}
+    <div class="sidebar-teaching"><span class="sidebar-label">TEACHING</span>
+      <a href="{{ '/cpp-course/' | relative_url }}"><span class="course-symbol" aria-hidden="true">C++</span><span><strong>C++ Programming</strong><small>Course materials &amp; schedule</small></span><span aria-hidden="true">↗</span></a>
+    </div>
   {% endif %}
   </div>
 {% endif %}

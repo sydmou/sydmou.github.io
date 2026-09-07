@@ -5,11 +5,15 @@
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
-    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+    <img src="{{ author.avatar | relative_url }}" class="author__avatar" alt="{{ author.name | replace: '<br>', ' ' | strip_html | escape }}">
   </div>
 
   <div class="author__content">
+    {% if page.academic_home %}
+    <h1 class="author__name">{{ author.name | replace: '<br>', '<span lang="zh-CN">' }}</span></h1>
+    {% else %}
     <h3 class="author__name" style="text-align: center;">{{ author.name }}</h3>
+    {% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
