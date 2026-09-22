@@ -48,62 +48,108 @@ My research interests include natural language processing (NLP), large language 
 <div class="news-list" markdown="1">
 - <span class="entry-date">May 2026.</span><span class="entry-detail">I completed my Ph.D. in the School of Computer Science at Universiti Sains Malaysia.</span>
 - <span class="entry-date">Apr 2026.</span><span class="entry-detail">Our paper, *Tree-CoT-RT: An Explainable Multi-Path Tree-Guided Chain-of-Thought and Reinforcement Learning Framework for Aspect Sentiment Quad Prediction*, was accepted by *Findings of ACL 2026*.</span>
-- <span class="entry-date">Jan 2026.</span><span class="entry-detail">Our survey paper, *A Survey of Large Language Models for Legal Applications: Progress, Prospects and Challenges*, was published in *Computer Science Review*.</span>
-- <span class="entry-date">Dec 2025.</span><span class="entry-detail">Our paper, *SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation*, was accepted by *Mains of EMNLP 2025*.</span>
+- <span class="entry-date">Jan 2026.</span><span class="entry-detail">Our survey paper, *A Survey of Large Language Models for Legal Tasks: Progress, Prospects and Challenges*, was published in *Computer Science Review*.</span>
+- <span class="entry-date">Dec 2025.</span><span class="entry-detail">Our paper, *SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation*, was accepted by the *EMNLP 2025 Main Conference*.</span>
 - <span class="entry-date">Oct 2025.</span><span class="entry-detail">I started serving as a Visiting Researcher at XU Exponential University of Applied Sciences GmbH.</span>
 </div>
 
 <div class="anchor" id="publications"></div>
 
-<div class="publication-heading"><h2 class="section-title" id="-publications">📝 Publications</h2><a href="https://scholar.google.com/citations?user=baHj0YsAAAAJ">Google Scholar <span aria-hidden="true">↗</span></a></div>
+<div class="publication-heading"><h2 class="section-title" id="-publications">📝 Publications</h2><a href="https://scholar.google.com/citations?user=crmoLvMAAAAJ">Google Scholar <span aria-hidden="true">↗</span></a></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-tree-cot-rt.svg' alt="Tree-CoT-RT cover" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+<div class="publication-venue">ACL 2026</div>
+
+[Tree-CoT-RT: An Explainable Multi-Path Tree-Guided Chain-of-Thought and Reinforcement Learning Framework for Aspect Sentiment Quad Prediction](https://doi.org/10.18653/v1/2026.findings-acl.806)
+
+**Hao Zhang**, Jiahao Wang, Zhenke Duan, Xin Yin, Haichuan Hu, Hualong Chen, Congqing He, Yike Tan, Yu-N Cheah
+
+**Findings of the Association for Computational Linguistics: ACL 2026**, CCF A
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/LLM4LAW.jpg' alt="LLM4Law cover" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 <div class="publication-venue">CSR 2026</div>
 
-[A Survey of Large Language Models for Legal Applications: Progress, Prospects and Challenges](https://doi.org/10.1016/j.cosrev.2026.100906)
+[A Survey of Large Language Models for Legal Tasks: Progress, Prospects and Challenges](https://doi.org/10.1016/j.cosrev.2026.100906)
 
-**Congqing He**, Haichuan Hu, Yanli Li, Hao Zhang, Quanjun Zhang
+Congqing He, Haichuan Hu, Yanli Li, **Hao Zhang**, Quanjun Zhang
 
 **Computer Science Review (2026)**, JCR Q1, 中科院1区TOP, IF: 12.7
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/jurisim.jpg' alt="JuriSim cover" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-rescue.svg' alt="RESCUE-Bench cover" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
-<div class="publication-venue">ESWA 2025</div>
+<div class="publication-venue">arXiv 2026</div>
 
-[Simulating Judicial Trial Logic: Dual Residual Cross-Attention Learning for Predicting Legal Judgment in Long Documents](https://doi.org/10.1016/j.eswa.2024.125462)
+[RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems](https://arxiv.org/abs/2609.09657)
 
-**Congqing He**, Tienping Tan, Sheng Xue, Yanyu Tan
+H. Hu, Y. Xiao, M. Tang, J. Duan, Q. Zhang, C. He, **H. Zhang**, J. Wang, et al.
 
-**Expert Systems with Applications (2025)**, JCR Q1, 中科院1区TOP, IF: 7.5
+**arXiv preprint arXiv:2609.09657 (2026)**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/scnet.jpg' alt="SCNet cover" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-soleval.svg' alt="SolEval cover" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
-<div class="publication-venue">JESTECH 2025</div>
+<div class="publication-venue">EMNLP 2025</div>
 
-[SCNet: Few-Shot Image Classification via Self-Correlational and Cross Spatial-Correlation Attention](https://doi.org/10.1016/j.jestch.2025.102075)
+[SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation](https://doi.org/10.18653/v1/2025.emnlp-main.218)
 
-**Congqing He**, Ding Xu, Ke Gong, Fusen Guo, Dapeng Wei
+Zhiyuan Peng, Xin Yin, Rui Qian, Peiqin Lin, YongKang Liu, **Hao Zhang**, Chenhao Ying, Yuan Luo
 
-**Engineering Science and Technology, an International Journal (2025)**, JCR Q1, 中科院2区, IF: 5.4
+**Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)**, CCF B
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/tim.png' alt="TIM cover" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-classroom.svg' alt="Classroom behavior recognition cover" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
-<div class="publication-venue">TIM 2025</div>
+<div class="publication-venue">CMC 2025</div>
 
-[Few-Shot Steel Strip Surface Defect Classification via Self-Correlation Enhancement and Feature Refinement](https://ieeexplore.ieee.org/document/11124316)
+[Enhancing Classroom Behavior Recognition with Lightweight Multi-Scale Feature Fusion](https://doi.org/10.32604/cmc.2025.066343)
 
-Ke Gong, Ding Xu, Fusen Guo, Zihan Wang, Fangrui Zhang, **Congqing He#**
+Chuanchuan Wang, Ahmad Sufril Azlan Mohamed, Xiao Yang, **Hao Zhang**, Xiang Li, Mohd Halim Bin Mohd Noor
 
-*# corresponding author*
+**Computers, Materials &amp; Continua (2025)**
+</div>
+</div>
 
-**IEEE Transactions on Instrumentation and Measurement (2025)**, JCR Q1, 中科院2区, IF: 5.9
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-textclf.svg' alt="Text classification review cover" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+<div class="publication-venue">MTAP 2025</div>
+
+[Text Classification Based on Optimization Feature Selection Methods: A Review and Future Directions](https://doi.org/10.1007/s11042-024-19769-6)
+
+Osamah Mohammed Alyasiri, Yu-N Cheah, **Hao Zhang**, Omar Mustafa Al-Janabi, Ammar Kamal Abasi
+
+**Multimedia Tools and Applications (2025)**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-asymoe.svg' alt="AsymoE cover" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+<div class="publication-venue">arXiv 2025</div>
+
+[AsymoE: Leveraging Modal Asymmetry for Enhanced Expert Specialization in Large Vision-Language Models](https://arxiv.org/abs/2509.12715)
+
+**Hao Zhang**, H. Hu, Y. Shen, W. Yu, Y. Yuan, H. You, G. Cheng, Z. Zhang, L. Gan, et al.
+
+**arXiv preprint arXiv:2509.12715 (2025)**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-aprmcts.svg' alt="AprMCTS cover" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+<div class="publication-venue">arXiv 2025</div>
+
+[AprMCTS: Improving LLM-based Automated Program Repair with Iterative Tree Search](https://arxiv.org/abs/2507.01827)
+
+H. Hu, C. He, **H. Zhang**, X. Xie, Q. Zhang
+
+**arXiv preprint arXiv:2507.01827 (2025)**
 </div>
 </div>
 
@@ -111,37 +157,35 @@ Ke Gong, Ding Xu, Fusen Guo, Zihan Wang, Fangrui Zhang, **Congqing He#**
 <div class='paper-box-text' markdown="1">
 <div class="publication-venue">EMNLP 2024</div>
 
-[An Instruction Tuning-Based Contrastive Learning Framework for Aspect Sentiment Quad Prediction with Implicit Aspects and Opinions](https://aclanthology.org/2024.findings-emnlp.453)
+[An Instruction Tuning-Based Contrastive Learning Framework for Aspect Sentiment Quad Prediction with Implicit Aspects and Opinions](https://doi.org/10.18653/v1/2024.findings-emnlp.453)
 
-Hao Zhang, Yu-N Cheah, **Congqing He**, Feifan Yi
+**Hao Zhang**, Yu-N Cheah, Congqing He, Feifan Yi
 
 **Findings of the Association for Computational Linguistics: EMNLP 2024**, CCF B
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/explaining.jpg' alt="Explaining legal judgments cover" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-absq-survey.svg' alt="ABSA survey cover" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
-<div class="publication-venue">JKSUCI 2023</div>
+<div class="publication-venue">AI Review 2024</div>
 
-[Explaining legal judgments: A multitask learning framework for enhancing factual consistency in rationale generation](https://doi.org/10.1016/j.jksuci.2023.101868)
+[Exploring Aspect-Based Sentiment Quadruple Extraction with Implicit Aspects, Opinions, and ChatGPT: A Comprehensive Survey](https://doi.org/10.1007/s10462-023-10633-x)
 
-**Congqing He**, Tienping Tan, Sheng Xue, Yanyu Tan
+**Hao Zhang**, Yu-N Cheah, Osamah Mohammed Alyasiri, Jieyu An
 
-**Journal of King Saud University - Computer and Information Sciences (2023)**, JCR Q1, 中科院2区, IF: 6.9
+**Artificial Intelligence Review (2024)**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/ecai2020.png' alt="ECAI 2020 paper cover" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-multimodal.svg' alt="Multimodal sentiment classification cover" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
-<div class="publication-venue">ECAI 2020</div>
+<div class="publication-venue">CMC 2023</div>
 
-[Learning to Predict Charges for Legal Judgment via Self-Attentive Capsule Network](https://ecai2020.eu/papers/98_paper.pdf)
+[Improving Targeted Multimodal Sentiment Classification with Semantic Description of Images](https://doi.org/10.32604/cmc.2023.038220)
 
-Yuquan Le*#, **Congqing He*#**, Meng Chen, Youzheng Wu, Bowen Zhou
+Jieyu An, Wan Mohd Nazmee Wan Zainon, **Zhang Hao**
 
-<em>* co-first author; # co-corresponding author</em>
-
-**ECAI 2020**, CCF B
+**Computers, Materials &amp; Continua (2023)**
 </div>
 </div>
 
