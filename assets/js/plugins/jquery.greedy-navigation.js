@@ -13,6 +13,8 @@ var $hlinks = $('#site-nav .hidden-links');
 var breaks = [];
 
 function updateNav() {
+  // Pages with grouped navigation do not use this legacy overflow menu.
+  if (!$nav.length) return;
 
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 

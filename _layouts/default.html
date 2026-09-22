@@ -9,7 +9,8 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body{% if page.academic_home %} class="academic-home"{% endif %}>
+    {% if page.academic_home %}<a class="skip-content" href="#main">Skip to content</a>{% endif %}
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
@@ -38,6 +39,7 @@ layout: compress
         Page View Count <span id="busuanzi_value_page_pv"></span>
       </span>
     </footer>
+    {% if page.academic_home %}<p class="back-to-top"><a href="#main">Back to top ↑</a></p>{% endif %}
 
     {% include scripts.html %}
 

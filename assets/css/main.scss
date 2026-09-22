@@ -193,3 +193,6 @@ h1:before, .anchor:before {
         gap: 0.1rem;
     }
 }
+
+/* Keep the GitHub homepage's type scale and two-column academic layout. */
+@import "refinements";

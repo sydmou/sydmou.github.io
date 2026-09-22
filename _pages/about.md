@@ -3,11 +3,12 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+academic_home: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<span class='anchor' id='about-me'></span>
+<div class="anchor" id="about-me"></div>
 
 <div class="about-intro" markdown="1">
 I am currently a Visiting Researcher and Head of X.Lab at XU Exponential University of Applied Sciences, Germany. My work focuses on applied artificial intelligence, large language models (LLMs), AI agents, robotics, and enterprise AI solutions, with an emphasis on bridging academic research and industrial innovation. If you are interested in academic collaboration, please feel free to contact me at, please feel free to contact me at [zhanghaousm@gmail.com](mailto:zhanghaousm@gmail.com).
@@ -18,24 +19,24 @@ My research interests include natural language processing (NLP), large language 
 
 </div>
 
-<span class='anchor' id='educations'></span>
+<div class="anchor" id="educations"></div>
 
-# 📖 Educations
+<h2 class="section-title" id="-educations">📖 Educations</h2>
 
 - **Apr. 2021 - May. 2026**, Ph.D. in School of Computer Science, Universiti Sains Malaysia.
 - **Oct. 2013 - Sep. 2015**, M.S. in Computer Science Engineering, École Supérieure d'Informatique (SUPINFO).
 - **Sep. 2009 - Jun. 2013**, B.S. in Computer Science Engineering, École Supérieure d'Informatique (SUPINFO).
 
-<span class='anchor' id='experience'></span>
+<div class="anchor" id="experience"></div>
 
 # 💼 Experience
 - **Oct. 2025 - present**, Visiting Researcher, XU Exponential University of Applied Sciences GmbH, Potsdam, Germany.
 - **Sep. 2018 - present**, Lecturer, Cangzhou Normal University, Cangzhou, China.
 - **Ja. 2016 - Apr. 2018**, iOS Engineer & Projetct Manger, iHealth (Tianjin, China; Paris, France; California, USA)
 
-<span class='anchor' id='news'></span>
+<div class="anchor" id="news"></div>
 
-# 🔥 News
+<h2 class="section-title" id="-news">🔥 News</h2>
 
 <div class="news-list" markdown="1">
 - **May 2026.** I completed my Ph.D. in the School of Computer Science at Universiti Sains Malaysia.
@@ -45,23 +46,13 @@ My research interests include natural language processing (NLP), large language 
 - **Oct 2025.** I started serving as a Visiting Researcher at XU Exponential University of Applied Sciences GmbH.
 </div>
 
-<span class='anchor' id='publications'></span>
+<div class="anchor" id="publications"></div>
 
-# 📝 Publications
+<div class="publication-heading"><h2 class="section-title" id="-publications">📝 Publications</h2><a href="https://scholar.google.com/citations?user=baHj0YsAAAAJ">Google Scholar <span aria-hidden="true">↗</span></a></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2025</div><img src='/images/jurisim.jpg' alt="JuriSim cover" width="85%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/LLM4LAW.jpg' alt="LLM4Law cover" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[Simulating Judicial Trial Logic: Dual Residual Cross-Attention Learning for Predicting Legal Judgment in Long Documents](https://doi.org/10.1016/j.eswa.2024.125462)
-
-**Congqing He**, Tienping Tan, Sheng Xue, Yanyu Tan
-
-**Expert Systems with Applications (2025)**, JCR Q1, 中科院1区TOP, IF: 7.5
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSR 2026</div><img src='/images/LLM4LAW.jpg' alt="LLM4Law cover" width="85%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="publication-venue">CSR 2026</div>
 
 [A Survey of Large Language Models for Legal Applications: Progress, Prospects and Challenges](https://doi.org/10.1016/j.cosrev.2026.100906)
 
@@ -71,9 +62,21 @@ My research interests include natural language processing (NLP), large language 
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JESTECH 2025</div><img src='/images/scnet.jpg' alt="SCNet cover" width="85%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/jurisim.jpg' alt="JuriSim cover" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
+<div class="publication-venue">ESWA 2025</div>
+
+[Simulating Judicial Trial Logic: Dual Residual Cross-Attention Learning for Predicting Legal Judgment in Long Documents](https://doi.org/10.1016/j.eswa.2024.125462)
+
+**Congqing He**, Tienping Tan, Sheng Xue, Yanyu Tan
+
+**Expert Systems with Applications (2025)**, JCR Q1, 中科院1区TOP, IF: 7.5
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/scnet.jpg' alt="SCNet cover" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+<div class="publication-venue">JESTECH 2025</div>
 
 [SCNet: Few-Shot Image Classification via Self-Correlational and Cross Spatial-Correlation Attention](https://doi.org/10.1016/j.jestch.2025.102075)
 
@@ -83,8 +86,9 @@ My research interests include natural language processing (NLP), large language 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2025</div><img src='/images/tim.png' alt="TIM cover" width="85%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/tim.png' alt="TIM cover" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
+<div class="publication-venue">TIM 2025</div>
 
 [Few-Shot Steel Strip Surface Defect Classification via Self-Correlation Enhancement and Feature Refinement](https://ieeexplore.ieee.org/document/11124316)
 
@@ -96,8 +100,9 @@ Ke Gong, Ding Xu, Fusen Guo, Zihan Wang, Fangrui Zhang, **Congqing He#**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='/images/ASQP.png' alt="ASQP cover" width="85%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/ASQP.png' alt="ASQP cover" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
+<div class="publication-venue">EMNLP 2024</div>
 
 [An Instruction Tuning-Based Contrastive Learning Framework for Aspect Sentiment Quad Prediction with Implicit Aspects and Opinions](https://aclanthology.org/2024.findings-emnlp.453)
 
@@ -107,8 +112,9 @@ Hao Zhang, Yu-N Cheah, **Congqing He**, Feifan Yi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JKSUCI 2023</div><img src='/images/explaining.jpg' alt="Explaining legal judgments cover" width="85%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/explaining.jpg' alt="Explaining legal judgments cover" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
+<div class="publication-venue">JKSUCI 2023</div>
 
 [Explaining legal judgments: A multitask learning framework for enhancing factual consistency in rationale generation](https://doi.org/10.1016/j.jksuci.2023.101868)
 
@@ -118,8 +124,9 @@ Hao Zhang, Yu-N Cheah, **Congqing He**, Feifan Yi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2020</div><img src='/images/ecai2020.png' alt="ECAI 2020 paper cover" width="85%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/ecai2020.png' alt="ECAI 2020 paper cover" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
+<div class="publication-venue">ECAI 2020</div>
 
 [Learning to Predict Charges for Legal Judgment via Self-Attentive Capsule Network](https://ecai2020.eu/papers/98_paper.pdf)
 
@@ -131,14 +138,14 @@ Yuquan Le*#, **Congqing He*#**, Meng Chen, Youzheng Wu, Bowen Zhou
 </div>
 </div>
 
-<span class='anchor' id='honors-and-awards'></span>
+<div class="anchor" id="honors-and-awards"></div>
 
-# 🎖 Honors and Awards
+<h2 class="section-title" id="-honors-and-awards">🎖 Honors and Awards</h2>
 
 - **2024.** X.Lab Year Star, XU & X.lab.
 
-<span class='anchor' id='academic-services'></span>
+<div class="anchor" id="academic-services"></div>
 
-# 🤝 Academic Services
+<h2 class="section-title" id="-academic-services">🤝 Academic Services</h2>
 
 Serving as a reviewer for multiple SCI/EI journals and the TOP AI Conference, including *Discover Artificial Intelligence*, *Cluster Computing*, *The Journal of Supercomputing*, *Frontiers in Communication* and *NeurIPS 2026*.

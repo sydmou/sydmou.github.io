@@ -65,6 +65,11 @@ include:
   - _pages
   - files
 exclude:
+  - ops
+  - run_server.sh
+  - cpp-course/README.md
+  - cpp-course/TERMINOLOGY.md
+  - cpp-course/terminology-audit.mjs
   - docs
   - google_scholar_crawler
   - "*.sublime-project"
@@ -152,6 +157,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-redirect-from
   - jemoji
 
 
