@@ -11,7 +11,7 @@ redirect_from:
 <div class="anchor" id="about-me"></div>
 
 <div class="about-intro" markdown="1">
-<div class="research-topics" aria-label="Research interests"><span>NLP</span><span>Large Language Models</span><span>Information Retrieval</span><span>AI for Law</span></div>
+<div class="research-topics" aria-label="Research interests"><span>NLP</span><span>Large Language Models</span><span>Reinforcement Learning</span><span>AI Agents</span><span>Robotics</span></div>
 
 I am currently a Visiting Researcher and Head of X.Lab at XU Exponential University of Applied Sciences, Germany. My work focuses on applied artificial intelligence, large language models (LLMs), AI agents, robotics, and enterprise AI solutions, with an emphasis on bridging academic research and industrial innovation. If you are interested in academic collaboration, please feel free to contact me at, please feel free to contact me at [zhanghaousm@gmail.com](mailto:zhanghaousm@gmail.com).
 
