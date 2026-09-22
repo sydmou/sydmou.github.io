@@ -92,7 +92,9 @@
 
       "honors.1": "<strong>2024.</strong> X.Lab 年度之星，XU &amp; X.lab。",
 
-      "services.body": "担任多本 SCI/EI 期刊与顶级 AI 会议的审稿人，包括 <em>Discover Artificial Intelligence</em>、<em>Cluster Computing</em>、<em>The Journal of Supercomputing</em>、<em>Frontiers in Communication</em>、<em>IEEE/ACM Transactions on Audio, Speech, and Language Processing</em>，以及 <em>NeurIPS 2026</em> 和 <em>KDD 2027</em>。",
+      "services.intro": "担任多本 SCI/EI 期刊与顶级 AI 会议的审稿人。",
+      "services.journals": "<strong>期刊：</strong><em>Discover Artificial Intelligence</em>、<em>Cluster Computing</em>、<em>The Journal of Supercomputing</em>、<em>Frontiers in Communication</em>、<em>IEEE/ACM Transactions on Audio, Speech, and Language Processing</em>。",
+      "services.conferences": "<strong>会议：</strong><em>NeurIPS 2026</em>、<em>KDD 2027</em>.",
 
       "ui.skip": "跳到正文",
       "ui.visits": "本站总访问量",
@@ -170,7 +172,9 @@
 
       "honors.1": "<strong>2024.</strong> X.Lab Year Star, XU &amp; X.lab.",
 
-      "services.body": "Tätig als Gutachter für mehrere SCI/EI-Zeitschriften und führende KI-Konferenzen, darunter <em>Discover Artificial Intelligence</em>, <em>Cluster Computing</em>, <em>The Journal of Supercomputing</em>, <em>Frontiers in Communication</em>, <em>IEEE/ACM Transactions on Audio, Speech, and Language Processing</em> sowie <em>NeurIPS 2026</em> und <em>KDD 2027</em>.",
+      "services.intro": "Tätig als Gutachter für mehrere SCI/EI-Zeitschriften und führende KI-Konferenzen.",
+      "services.journals": "<strong>Zeitschriften:</strong> <em>Discover Artificial Intelligence</em>, <em>Cluster Computing</em>, <em>The Journal of Supercomputing</em>, <em>Frontiers in Communication</em>, <em>IEEE/ACM Transactions on Audio, Speech, and Language Processing</em>.",
+      "services.conferences": "<strong>Konferenzen:</strong> <em>NeurIPS 2026</em>, <em>KDD 2027</em>.",
 
       "ui.skip": "Zum Inhalt springen",
       "ui.visits": "Seitenaufrufe gesamt",

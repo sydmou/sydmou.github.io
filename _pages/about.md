@@ -183,4 +183,8 @@ Jieyu An, Wan Mohd Nazmee Wan Zainon, **Zhang Hao**
 
 <h2 class="section-title" id="-academic-services">🤝 <span data-i18n="sec.services">Academic Services</span></h2>
 
-<span data-i18n="services.body">Serving as a reviewer for multiple SCI/EI journals and top AI conferences, including *Discover Artificial Intelligence*, *Cluster Computing*, *The Journal of Supercomputing*, *Frontiers in Communication*, *IEEE/ACM Transactions on Audio, Speech, and Language Processing*, *NeurIPS 2026* and *KDD 2027*.</span>
+<span data-i18n="services.intro">Serving as a reviewer for multiple SCI/EI journals and top AI conferences.</span>
+
+<span data-i18n="services.journals">**Journals:** *Discover Artificial Intelligence*, *Cluster Computing*, *The Journal of Supercomputing*, *Frontiers in Communication*, *IEEE/ACM Transactions on Audio, Speech, and Language Processing*.</span>
+
+<span data-i18n="services.conferences">**Conferences:** *NeurIPS 2026*, *KDD 2027*.</span>

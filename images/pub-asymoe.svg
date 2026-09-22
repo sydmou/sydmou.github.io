@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 360" width="500" height="360" role="img" aria-label="arXiv 2025 Preprint">
-  <rect width="500" height="360" fill="#edf3fa"/>
-  <rect x="18" y="18" width="464" height="324" rx="12" fill="none" stroke="#cfdff0" stroke-width="2" stroke-dasharray="9 7"/>
-  <text x="250" y="178" text-anchor="middle" font-family="Trebuchet MS, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#355676" letter-spacing="-0.5">arXiv 2025</text>
-  <text x="250" y="216" text-anchor="middle" font-family="Trebuchet MS, Helvetica, Arial, sans-serif" font-size="19" fill="#6d7887">Preprint</text>
-  <text x="250" y="303" text-anchor="middle" font-family="Trebuchet MS, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa8b6" letter-spacing="1.6">HAO ZHANG</text>
-</svg>
