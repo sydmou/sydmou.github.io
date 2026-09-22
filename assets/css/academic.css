@@ -15,6 +15,54 @@ body.academic-home { color: var(--ink); background: #fff; line-height: 1.7; }
 .nav-group summary { color: #566474; min-height: 42px; }
 .nav-group summary:hover, .nav-group[open] summary { background: var(--wash); }
 .grouped-nav .nav-submenu { border-radius: 10px; box-shadow: 0 10px 30px #243b5312; }
+
+/* Language switch (EN / 中文 / DE) sitting at the right end of the masthead. */
+.masthead__menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+}
+.grouped-nav { flex: 1 1 auto; min-width: 0; }
+.lang-switch {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: 2px;
+  padding: 3px;
+  background: var(--wash);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+}
+.lang-btn {
+  appearance: none;
+  -webkit-appearance: none;
+  margin: 0;
+  padding: 5px 11px;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--muted);
+  font-family: inherit;
+  font-size: 12px;
+  line-height: 1.2;
+  letter-spacing: .02em;
+  cursor: pointer;
+  transition: background-color .15s ease, color .15s ease;
+}
+.lang-btn:hover { color: var(--blue); }
+.lang-btn[aria-pressed="true"] {
+  background: #fff;
+  color: var(--blue);
+  font-weight: 700;
+  box-shadow: 0 1px 3px rgba(15,23,42,.14);
+}
+@media (max-width: 767px) {
+  .masthead__menu { flex-wrap: wrap; gap: 8px 14px; }
+  .lang-switch { margin-left: auto; }
+  .lang-btn { padding: 5px 9px; font-size: 11px; }
+}
+
 #main {
   display: grid;
   grid-template-columns: 230px minmax(0,1fr);

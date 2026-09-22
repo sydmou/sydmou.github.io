@@ -13,49 +13,49 @@ redirect_from:
 <div class="about-intro" markdown="1">
 <div class="research-topics" aria-label="Research interests"><span>NLP</span><span>Large Language Models</span><span>Reinforcement Learning</span><span>AI Agents</span><span>Robotics</span></div>
 
-I am currently a Visiting Researcher and Head of X.Lab at XU Exponential University of Applied Sciences, Germany. My work focuses on applied artificial intelligence, large language models (LLMs), AI agents, robotics, and enterprise AI solutions, with an emphasis on bridging academic research and industrial innovation. If you are interested in academic collaboration, please feel free to contact me at, please feel free to contact me at [zhanghaousm@gmail.com](mailto:zhanghaousm@gmail.com).
+<span data-i18n="bio.p1">I am currently a Visiting Researcher and Head of X.Lab at XU Exponential University of Applied Sciences, Germany. My work focuses on applied artificial intelligence, large language models (LLMs), AI agents, robotics, and enterprise AI solutions, with an emphasis on bridging academic research and industrial innovation. If you are interested in academic collaboration, please feel free to contact me at [zhanghaousm@gmail.com](mailto:zhanghaousm@gmail.com).</span>
 
-I received my Ph.D. in Artificial Intelligence from Universiti Sains Malaysia (USM). Prior to that, I obtained my M.S. and B.S. degrees in Computer Science from the International University of SUPINFO, Paris, France.
+<span data-i18n="bio.p2">I received my Ph.D. in Artificial Intelligence from Universiti Sains Malaysia (USM). Prior to that, I obtained my M.S. and B.S. degrees in Computer Science from the International University of SUPINFO, Paris, France.</span>
 
-My research interests include natural language processing (NLP), large language models (LLMs), sentiment analysis, information extraction, explainable AI, and trustworthy AI. My research has focused on Aspect-Based Sentiment Analysis (ABSA), Aspect-Category-Opinion-Sentiment Quadruple Extraction (ACOSQE), Chain-of-Thought reasoning, and AI-driven information processing. I have published 10+ papers in SCI journals and top international AI conferences such as *Computer Science Review*, *Artificial Intelligence Review*, *EMNLP*, and *ACL*. More details can be found on my [Google Scholar](https://scholar.google.com/citations?user=crmoLvMAAAAJ).
+<span data-i18n="bio.p3">My research interests include natural language processing (NLP), large language models (LLMs), sentiment analysis, information extraction, explainable AI, and trustworthy AI. My research has focused on Aspect-Based Sentiment Analysis (ABSA), Aspect-Category-Opinion-Sentiment Quadruple Extraction (ACOSQE), Chain-of-Thought reasoning, and AI-driven information processing. I have published 10+ papers in SCI journals and top international AI conferences such as *Computer Science Review*, *Artificial Intelligence Review*, *EMNLP*, and *ACL*. More details can be found on my [Google Scholar](https://scholar.google.com/citations?user=crmoLvMAAAAJ).</span>
 
 </div>
 
 <div class="anchor" id="educations"></div>
 
-<h2 class="section-title" id="-educations">📖 Educations</h2>
+<h2 class="section-title" id="-educations">📖 <span data-i18n="sec.educations">Educations</span></h2>
 
 <ul class="cv-list">
-<li><span class="entry-date">Apr. 2021 - May. 2026</span><span class="entry-detail">Ph.D. in School of Computer Science, Universiti Sains Malaysia.</span></li>
-<li><span class="entry-date">Oct. 2013 - Sep. 2015</span><span class="entry-detail">M.S. in Computer Science Engineering, École Supérieure d'Informatique (SUPINFO).</span></li>
-<li><span class="entry-date">Sep. 2009 - Jun. 2013</span><span class="entry-detail">B.S. in Computer Science Engineering, École Supérieure d'Informatique (SUPINFO).</span></li>
+<li><span class="entry-date" data-i18n="edu.1.date">Apr. 2021 - May. 2026</span><span class="entry-detail" data-i18n="edu.1.detail">Ph.D. in School of Computer Science, Universiti Sains Malaysia.</span></li>
+<li><span class="entry-date" data-i18n="edu.2.date">Oct. 2013 - Sep. 2015</span><span class="entry-detail" data-i18n="edu.2.detail">M.S. in Computer Science Engineering, École Supérieure d'Informatique (SUPINFO).</span></li>
+<li><span class="entry-date" data-i18n="edu.3.date">Sep. 2009 - Jun. 2013</span><span class="entry-detail" data-i18n="edu.3.detail">B.S. in Computer Science Engineering, École Supérieure d'Informatique (SUPINFO).</span></li>
 </ul>
 
 <div class="anchor" id="experience"></div>
 
-<h2 class="section-title" id="-experience">💼 Experience</h2>
+<h2 class="section-title" id="-experience">💼 <span data-i18n="sec.experience">Experience</span></h2>
 
 <ul class="cv-list">
-<li><span class="entry-date">Oct. 2025 - present</span><span class="entry-detail">Visiting Researcher, XU Exponential University of Applied Sciences GmbH, Potsdam, Germany.</span></li>
-<li><span class="entry-date">Sep. 2018 - present</span><span class="entry-detail">Lecturer, Cangzhou Normal University, Cangzhou, China.</span></li>
-<li><span class="entry-date">Jan. 2016 - Apr. 2018</span><span class="entry-detail">iOS Engineer &amp; Project Manager, iHealth (Tianjin, China; Paris, France; California, USA).</span></li>
+<li><span class="entry-date" data-i18n="exp.1.date">Oct. 2025 - present</span><span class="entry-detail" data-i18n="exp.1.detail">Visiting Researcher, XU Exponential University of Applied Sciences GmbH, Potsdam, Germany.</span></li>
+<li><span class="entry-date" data-i18n="exp.2.date">Sep. 2018 - present</span><span class="entry-detail" data-i18n="exp.2.detail">Lecturer, Cangzhou Normal University, Cangzhou, China.</span></li>
+<li><span class="entry-date" data-i18n="exp.3.date">Jan. 2016 - Apr. 2018</span><span class="entry-detail" data-i18n="exp.3.detail">iOS Engineer &amp; Project Manager, iHealth (Tianjin, China; Paris, France; California, USA).</span></li>
 </ul>
 
 <div class="anchor" id="news"></div>
 
-<h2 class="section-title" id="-news">🔥 News</h2>
+<h2 class="section-title" id="-news">🔥 <span data-i18n="sec.news">News</span></h2>
 
 <div class="news-list" markdown="1">
-- <span class="entry-date">May 2026.</span><span class="entry-detail">I completed my Ph.D. in the School of Computer Science at Universiti Sains Malaysia.</span>
-- <span class="entry-date">Apr 2026.</span><span class="entry-detail">Our paper, *Tree-CoT-RT: An Explainable Multi-Path Tree-Guided Chain-of-Thought and Reinforcement Learning Framework for Aspect Sentiment Quad Prediction*, was accepted by *Findings of ACL 2026*.</span>
-- <span class="entry-date">Jan 2026.</span><span class="entry-detail">Our survey paper, *A Survey of Large Language Models for Legal Tasks: Progress, Prospects and Challenges*, was published in *Computer Science Review*.</span>
-- <span class="entry-date">Dec 2025.</span><span class="entry-detail">Our paper, *SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation*, was accepted by the *EMNLP 2025 Main Conference*.</span>
-- <span class="entry-date">Oct 2025.</span><span class="entry-detail">I started serving as a Visiting Researcher at XU Exponential University of Applied Sciences GmbH.</span>
+- <span class="entry-date" data-i18n="news.1.date">May 2026.</span><span class="entry-detail" data-i18n="news.1.body">I completed my Ph.D. in the School of Computer Science at Universiti Sains Malaysia.</span>
+- <span class="entry-date" data-i18n="news.2.date">Apr 2026.</span><span class="entry-detail" data-i18n="news.2.body">Our paper, *Tree-CoT-RT: An Explainable Multi-Path Tree-Guided Chain-of-Thought and Reinforcement Learning Framework for Aspect Sentiment Quad Prediction*, was accepted by *Findings of ACL 2026*.</span>
+- <span class="entry-date" data-i18n="news.3.date">Jan 2026.</span><span class="entry-detail" data-i18n="news.3.body">Our survey paper, *A Survey of Large Language Models for Legal Tasks: Progress, Prospects and Challenges*, was published in *Computer Science Review*.</span>
+- <span class="entry-date" data-i18n="news.4.date">Dec 2025.</span><span class="entry-detail" data-i18n="news.4.body">Our paper, *SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation*, was accepted by the *EMNLP 2025 Main Conference*.</span>
+- <span class="entry-date" data-i18n="news.5.date">Oct 2025.</span><span class="entry-detail" data-i18n="news.5.body">I started serving as a Visiting Researcher at XU Exponential University of Applied Sciences GmbH.</span>
 </div>
 
 <div class="anchor" id="publications"></div>
 
-<div class="publication-heading"><h2 class="section-title" id="-publications">📝 Publications</h2><a href="https://scholar.google.com/citations?user=crmoLvMAAAAJ">Google Scholar <span aria-hidden="true">↗</span></a></div>
+<div class="publication-heading"><h2 class="section-title" id="-publications">📝 <span data-i18n="sec.publications">Publications</span></h2><a href="https://scholar.google.com/citations?user=crmoLvMAAAAJ">Google Scholar <span aria-hidden="true">↗</span></a></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-tree-cot-rt.svg' alt="Tree-CoT-RT cover" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -191,12 +191,12 @@ Jieyu An, Wan Mohd Nazmee Wan Zainon, **Zhang Hao**
 
 <div class="anchor" id="honors-and-awards"></div>
 
-<h2 class="section-title" id="-honors-and-awards">🎖 Honors and Awards</h2>
+<h2 class="section-title" id="-honors-and-awards">🎖 <span data-i18n="sec.honors">Honors and Awards</span></h2>
 
-- **2024.** X.Lab Year Star, XU & X.lab.
+- <span data-i18n="honors.1">**2024.** X.Lab Year Star, XU & X.lab.</span>
 
 <div class="anchor" id="academic-services"></div>
 
-<h2 class="section-title" id="-academic-services">🤝 Academic Services</h2>
+<h2 class="section-title" id="-academic-services">🤝 <span data-i18n="sec.services">Academic Services</span></h2>
 
-Serving as a reviewer for multiple SCI/EI journals and the TOP AI Conference, including *Discover Artificial Intelligence*, *Cluster Computing*, *The Journal of Supercomputing*, *Frontiers in Communication* and *NeurIPS 2026*.
+<span data-i18n="services.body">Serving as a reviewer for multiple SCI/EI journals and top AI conferences, including *Discover Artificial Intelligence*, *Cluster Computing*, *The Journal of Supercomputing*, *Frontiers in Communication*, *IEEE/ACM Transactions on Audio, Speech, and Language Processing*, *NeurIPS 2026* and *KDD 2027*.</span>

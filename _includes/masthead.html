@@ -6,10 +6,10 @@
           {% for group in site.data.navigation.main %}
             <li>
               <details class="nav-group">
-                <summary>{{ group.title }}<span class="nav-chevron" aria-hidden="true"></span></summary>
+                <summary><span data-i18n="{{ group.i18n }}">{{ group.title }}</span><span class="nav-chevron" aria-hidden="true"></span></summary>
                 <ul class="nav-submenu" aria-label="{{ group.title }} links">
                   {% for link in group.links %}
-                    <li><a href="{{ link.url | relative_url }}"{% if link.primary %} class="nav-home-link"{% endif %}>{{ link.title }}</a></li>
+                    <li><a href="{{ link.url | relative_url }}"{% if link.primary %} class="nav-home-link"{% endif %}><span data-i18n="{{ link.i18n }}">{{ link.title }}</span></a></li>
                   {% endfor %}
                 </ul>
               </details>
@@ -17,6 +17,13 @@
           {% endfor %}
         </ul>
       </nav>
+      {% if page.academic_home %}
+      <div class="lang-switch" role="group" aria-label="Language / 语言 / Sprache">
+        <button type="button" class="lang-btn" data-lang="en" lang="en">EN</button>
+        <button type="button" class="lang-btn" data-lang="zh" lang="zh-CN">中文</button>
+        <button type="button" class="lang-btn" data-lang="de" lang="de">DE</button>
+      </div>
+      {% endif %}
     </div>
   </div>
 </div>
