@@ -49,6 +49,17 @@ My research interests include natural language processing (NLP), large language 
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2025</div><img src='/images/jurisim.jpg' alt="JuriSim cover" width="85%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Simulating Judicial Trial Logic: Dual Residual Cross-Attention Learning for Predicting Legal Judgment in Long Documents](https://doi.org/10.1016/j.eswa.2024.125462)
+
+**Congqing He**, Tienping Tan, Sheng Xue, Yanyu Tan
+
+**Expert Systems with Applications (2025)**, JCR Q1, 中科院1区TOP, IF: 7.5
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSR 2026</div><img src='/images/LLM4LAW.jpg' alt="LLM4Law cover" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -60,16 +71,6 @@ My research interests include natural language processing (NLP), large language 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2025</div><img src='/images/jurisim.jpg' alt="JuriSim cover" width="85%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Simulating Judicial Trial Logic: Dual Residual Cross-Attention Learning for Predicting Legal Judgment in Long Documents](https://doi.org/10.1016/j.eswa.2024.125462)
-
-**Congqing He**, Tienping Tan, Sheng Xue, Yanyu Tan
-
-**Expert Systems with Applications (2025)**, JCR Q1, 中科院1区TOP, IF: 7.5
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JESTECH 2025</div><img src='/images/scnet.jpg' alt="SCNet cover" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
