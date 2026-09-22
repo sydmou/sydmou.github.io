@@ -18,5 +18,7 @@ main:
         url: "/#-academic-services"
   - title: "Course"
     links:
-      - title: "C++"
-        url: "/cpp-course/"
+      - title: "Smart Product Design"
+        url: "https://xu-university.com/"
+      - title: "Smart Service Design"
+        url: "https://xu-university.com/"
