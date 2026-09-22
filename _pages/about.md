@@ -11,6 +11,8 @@ redirect_from:
 <div class="anchor" id="about-me"></div>
 
 <div class="about-intro" markdown="1">
+<div class="research-topics" aria-label="Research interests"><span>NLP</span><span>Large Language Models</span><span>Information Retrieval</span><span>AI for Law</span></div>
+
 I am currently a Visiting Researcher and Head of X.Lab at XU Exponential University of Applied Sciences, Germany. My work focuses on applied artificial intelligence, large language models (LLMs), AI agents, robotics, and enterprise AI solutions, with an emphasis on bridging academic research and industrial innovation. If you are interested in academic collaboration, please feel free to contact me at, please feel free to contact me at [zhanghaousm@gmail.com](mailto:zhanghaousm@gmail.com).
 
 I received my Ph.D. in Artificial Intelligence from Universiti Sains Malaysia (USM). Prior to that, I obtained my M.S. and B.S. degrees in Computer Science from the International University of SUPINFO, Paris, France.
@@ -23,27 +25,32 @@ My research interests include natural language processing (NLP), large language 
 
 <h2 class="section-title" id="-educations">📖 Educations</h2>
 
-- **Apr. 2021 - May. 2026**, Ph.D. in School of Computer Science, Universiti Sains Malaysia.
-- **Oct. 2013 - Sep. 2015**, M.S. in Computer Science Engineering, École Supérieure d'Informatique (SUPINFO).
-- **Sep. 2009 - Jun. 2013**, B.S. in Computer Science Engineering, École Supérieure d'Informatique (SUPINFO).
+<ul class="cv-list">
+<li><span class="entry-date">Apr. 2021 - May. 2026</span><span class="entry-detail">Ph.D. in School of Computer Science, Universiti Sains Malaysia.</span></li>
+<li><span class="entry-date">Oct. 2013 - Sep. 2015</span><span class="entry-detail">M.S. in Computer Science Engineering, École Supérieure d'Informatique (SUPINFO).</span></li>
+<li><span class="entry-date">Sep. 2009 - Jun. 2013</span><span class="entry-detail">B.S. in Computer Science Engineering, École Supérieure d'Informatique (SUPINFO).</span></li>
+</ul>
 
 <div class="anchor" id="experience"></div>
 
-# 💼 Experience
-- **Oct. 2025 - present**, Visiting Researcher, XU Exponential University of Applied Sciences GmbH, Potsdam, Germany.
-- **Sep. 2018 - present**, Lecturer, Cangzhou Normal University, Cangzhou, China.
-- **Ja. 2016 - Apr. 2018**, iOS Engineer & Projetct Manger, iHealth (Tianjin, China; Paris, France; California, USA)
+<h2 class="section-title" id="-experience">💼 Experience</h2>
+
+<ul class="cv-list">
+<li><span class="entry-date">Oct. 2025 - present</span><span class="entry-detail">Visiting Researcher, XU Exponential University of Applied Sciences GmbH, Potsdam, Germany.</span></li>
+<li><span class="entry-date">Sep. 2018 - present</span><span class="entry-detail">Lecturer, Cangzhou Normal University, Cangzhou, China.</span></li>
+<li><span class="entry-date">Jan. 2016 - Apr. 2018</span><span class="entry-detail">iOS Engineer &amp; Project Manager, iHealth (Tianjin, China; Paris, France; California, USA).</span></li>
+</ul>
 
 <div class="anchor" id="news"></div>
 
 <h2 class="section-title" id="-news">🔥 News</h2>
 
 <div class="news-list" markdown="1">
-- **May 2026.** I completed my Ph.D. in the School of Computer Science at Universiti Sains Malaysia.
-- **Apr 2026.** Our paper, *Tree-CoT-RT: An Explainable Multi-Path Tree-Guided Chain-of-Thought and Reinforcement Learning Framework for Aspect Sentiment Quad Prediction*, was accepted by *Findings of ACL 2026*.
-- **Jan 2026.** Our survey paper, *A Survey of Large Language Models for Legal Applications: Progress, Prospects and Challenges*, was published in *Computer Science Review*.
-- **Dec 2025.** Our paper, *SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation*, was accepted by *Mains of EMNLP 2025*.
-- **Oct 2025.** I started serving as a Visiting Researcher at XU Exponential University of Applied Sciences GmbH.
+- <span class="entry-date">May 2026.</span><span class="entry-detail">I completed my Ph.D. in the School of Computer Science at Universiti Sains Malaysia.</span>
+- <span class="entry-date">Apr 2026.</span><span class="entry-detail">Our paper, *Tree-CoT-RT: An Explainable Multi-Path Tree-Guided Chain-of-Thought and Reinforcement Learning Framework for Aspect Sentiment Quad Prediction*, was accepted by *Findings of ACL 2026*.</span>
+- <span class="entry-date">Jan 2026.</span><span class="entry-detail">Our survey paper, *A Survey of Large Language Models for Legal Applications: Progress, Prospects and Challenges*, was published in *Computer Science Review*.</span>
+- <span class="entry-date">Dec 2025.</span><span class="entry-detail">Our paper, *SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation*, was accepted by *Mains of EMNLP 2025*.</span>
+- <span class="entry-date">Oct 2025.</span><span class="entry-detail">I started serving as a Visiting Researcher at XU Exponential University of Applied Sciences GmbH.</span>
 </div>
 
 <div class="anchor" id="publications"></div>
