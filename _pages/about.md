@@ -84,18 +84,6 @@ Congqing He, Haichuan Hu, Yanli Li, **Hao Zhang**, Quanjun Zhang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-rescue.svg' alt="RESCUE-Bench cover" loading="lazy"></div></div>
-<div class='paper-box-text' markdown="1">
-<div class="publication-venue">arXiv 2026</div>
-
-[RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems](https://arxiv.org/abs/2609.09657)
-
-H. Hu, Y. Xiao, M. Tang, J. Duan, Q. Zhang, C. He, **H. Zhang**, J. Wang, et al.
-
-**arXiv preprint arXiv:2609.09657 (2026)**
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-soleval.svg' alt="SolEval cover" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 <div class="publication-venue">EMNLP 2025</div>
@@ -129,30 +117,6 @@ Chuanchuan Wang, Ahmad Sufril Azlan Mohamed, Xiao Yang, **Hao Zhang**, Xiang Li,
 Osamah Mohammed Alyasiri, Yu-N Cheah, **Hao Zhang**, Omar Mustafa Al-Janabi, Ammar Kamal Abasi
 
 **Multimedia Tools and Applications (2025)**
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-asymoe.svg' alt="AsymoE cover" loading="lazy"></div></div>
-<div class='paper-box-text' markdown="1">
-<div class="publication-venue">arXiv 2025</div>
-
-[AsymoE: Leveraging Modal Asymmetry for Enhanced Expert Specialization in Large Vision-Language Models](https://arxiv.org/abs/2509.12715)
-
-**Hao Zhang**, H. Hu, Y. Shen, W. Yu, Y. Yuan, H. You, G. Cheng, Z. Zhang, L. Gan, et al.
-
-**arXiv preprint arXiv:2509.12715 (2025)**
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-aprmcts.svg' alt="AprMCTS cover" loading="lazy"></div></div>
-<div class='paper-box-text' markdown="1">
-<div class="publication-venue">arXiv 2025</div>
-
-[AprMCTS: Improving LLM-based Automated Program Repair with Iterative Tree Search](https://arxiv.org/abs/2507.01827)
-
-H. Hu, C. He, **H. Zhang**, X. Xie, Q. Zhang
-
-**arXiv preprint arXiv:2507.01827 (2025)**
 </div>
 </div>
 
