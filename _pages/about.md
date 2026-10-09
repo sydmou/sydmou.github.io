@@ -68,7 +68,7 @@ redirect_from:
 
 Congqing He, Haichuan Hu, **Hao Zhang**, Yuquan Le, Jiawei Wang, Jacky Chi Kit Ng
 
-**Information Sciences (2026)**, CCF B, JCR Q1, 中科院1区TOP, IF: 6
+**Information Sciences (2026)**, CCF B, JCR Q1, <span data-i18n="pub.meta.infosci">CAS Tier 1 (Top)</span>, IF: 6
 </div>
 </div>
 
@@ -92,7 +92,7 @@ Congqing He, Haichuan Hu, **Hao Zhang**, Yuquan Le, Jiawei Wang, Jacky Chi Kit N
 
 Congqing He, Haichuan Hu, Yanli Li, **Hao Zhang**, Quanjun Zhang
 
-**Computer Science Review (2026)**, JCR Q1, 中科院1区TOP, IF: 12.7
+**Computer Science Review (2026)**, JCR Q1, <span data-i18n="pub.meta.csr">CAS Tier 1 (Top)</span>, IF: 12.7
 </div>
 </div>
 

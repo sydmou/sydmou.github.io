@@ -95,6 +95,8 @@
       "services.intro": "担任多本 SCI/EI 期刊与顶级 AI 会议的审稿人。",
       "services.journals": "<strong>期刊：</strong><em>Discover Artificial Intelligence</em>、<em>Cluster Computing</em>、<em>The Journal of Supercomputing</em>、<em>Frontiers in Communication</em>、<em>IEEE/ACM Transactions on Audio, Speech, and Language Processing</em>。",
       "services.conferences": "<strong>会议：</strong><em>NeurIPS 2026</em>、<em>KDD 2027</em>.",
+      "pub.meta.infosci": "中科院1区TOP",
+      "pub.meta.csr": "中科院1区TOP",
 
       "ui.skip": "跳到正文",
       "ui.visits": "本站总访问量",
