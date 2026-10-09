@@ -60,6 +60,18 @@ redirect_from:
 
 <div class="publication-heading"><h2 class="section-title" id="-publications">📝 <span data-i18n="sec.publications">Publications</span></h2><a href="https://scholar.google.com/citations?user=crmoLvMAAAAJ">Google Scholar <span aria-hidden="true">↗</span></a></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-inf-sci.svg' alt="Information Sciences cover" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+<div class="publication-venue">Inf. Sci. 2026</div>
+
+[LLM4ELCM: Multi-view enhanced large language models for explainable legal case matching](https://doi.org/10.1016/j.ins.2026.124199)
+
+Congqing He, Haichuan Hu, **Hao Zhang**, Yuquan Le, Jiawei Wang, Jacky Chi Kit Ng
+
+**Information Sciences (2026)**, CCF B, JCR Q1, 中科院1区TOP, IF: 6
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-tree-cot-rt.svg' alt="Tree-CoT-RT cover" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 <div class="publication-venue">ACL 2026</div>
